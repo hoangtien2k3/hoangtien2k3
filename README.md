@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://profile-summary-for-github.com/user/hoangtien2k3)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
 <h1 align="center">Hi 👋, I'm Hoang Anh Tien</h1>
 <h3 align="center">A passionate backend, app developer from Viet Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif">
@@ -19,7 +19,7 @@
  <br/>
 <p align="center">
 	<a href="mailto:hoangtien2k3qx1@gmail.com"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
-	<a href="https://github.com/hoangtien2k3"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://github.com/hoangtien2k3qx1"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/hoang-anh-tien-928388193/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/hoangtien2k3.vn/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a href="https://www.instagram.com/hoangtien2k3.vn/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
@@ -70,7 +70,7 @@
 
 
   <p align="center">
-  <a href="https://github.com/hoangtien2k3/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7627D&lines=Welcome%20to%20Hoang%20Tien's%20GitHub.;App+developer%20from%20Viet%20Nam.;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7627D&lines=Welcome%20to%20Hoang%20Tien's%20GitHub.;App+developer%20from%20Viet%20Nam.;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
                                                                                                               
@@ -98,11 +98,11 @@
 class MyProFile():
     
   def __init__(self):
-    self.name = "Hoang Anh Tien";
+    self.name = "Hoàng Anh Tiến";
     self.username = "hoangtien2k3qx1";
-    self.location = "Ha Noi, VietNam";
+    self.location = "Hà Nội, Việt Nam";
     self.web = "https://hoangtien2k3.blogspot.com/";
-    self.blog = "https://hoangtien2k3.github.io"
+    self.email = "hoangtien2k3qx1@gmail.com"
   
   def __str__(self):
     return self.name
