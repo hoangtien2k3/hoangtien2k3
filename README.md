@@ -101,9 +101,9 @@ class MyProFile():
     self.name = "Hoàng Anh Tiến";
     self.username = "hoangtien2k3qx1";
     self.location = "Hà Nội, Việt Nam";
+    self.email = "hoangtien2k3qx1@gmail.com";
     self.web = "https://hoangtien2k3.blogspot.com/";
-    self.email = "hoangtien2k3qx1@gmail.com"
-  
+    
   def __str__(self):
     return self.name
 
