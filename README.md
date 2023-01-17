@@ -131,7 +131,7 @@ if __name__ == '__main__':
 <p align="left">
 
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3qx1&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3qx1&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3qx1&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8" />
   
   <br/>
   </a>
