@@ -116,3 +116,17 @@ if __name__ == '__main__':
 ```
     
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+
+
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangtien2k3qx1" alt="hoangtien2k3qx1" /></p>
+
+[![hoangtien2k3qx1's github stats](https://github-readme-stats.vercel.app/api?username=hoangtien2k3qx1&show_icons=true&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800&line_height=24)](https://github.com/hoangtien2k3qx1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3qx1&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8)](https://github.com/hoangtien2k3qx1)
+
+
+
+
+
