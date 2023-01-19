@@ -68,6 +68,20 @@
   </a>
 </p>	
 	
+
+	
+	
+	
+<p align="center">
+  <a href = "https://github.com/hoangtien2k3qx1">
+	  
+  <img width="56.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3qx1&show_icons=true&theme=dark&count_private=true&hide_title=true&include_all_commits=true&hide_border=true" />
+  <img width="40.13%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3qx1&theme=dark&langs_count=10&layout=compact&hide_border=true" />
+	  
+  <br/>
+  </a>
+</p>
+	
 	
 
 <br>
@@ -121,3 +135,4 @@ if __name__ == '__main__':
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
+  
