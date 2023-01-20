@@ -62,7 +62,7 @@
 <p align="center">
   <a href = "https://github.com/hoangtien2k3qx1">
 	  
-  <img width="56.5%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3qx1&show_icons=true&theme=radical" />
   <img width="40.13%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3qx1&layout=compact&theme=dark" />
 
   <br/>
