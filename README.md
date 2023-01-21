@@ -62,7 +62,7 @@
   <a href = "https://github.com/hoangtien2k3qx1">
 	  
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hoangtien2k3qx1&show_icons=true&theme=radical" />
-  <img width="40.13%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3qx1&layout=compact&theme=dark" />
+  <img width="40.13%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3qx1&theme=radical&layout=compact" />
 
   <br/>
   </a>
@@ -121,4 +121,4 @@ if __name__ == '__main__':
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
- 
+
