@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
 <h1 align="center">Hi 👋, I'm Hoang Anh Tien</h1>
-<h3 align="center">A passionate backend, app developer from Viet Nam</h3>
+<h3 align="center"> </h3>
 <img align="right" alt="Coding" width="400" src="https://static.ybox.vn/2018/2/26/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif">
 
 
@@ -11,8 +11,6 @@
 - 💬 Ask me about **Android , App.**
 - 📫 How to reach me **hoangtien2k3qx1@gmail.com.**
 - ⚡ Fun fact **I am Funny.**
-
-
 
 
 <div align="center">
