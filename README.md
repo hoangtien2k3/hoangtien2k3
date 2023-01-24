@@ -25,7 +25,6 @@
 	<a href="tel:843"><img width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/apple-phone.png"/></a>
 </p>    
 
-	
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -53,7 +52,6 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-
 	
 	
 <p align="center">
