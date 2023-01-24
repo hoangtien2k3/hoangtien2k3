@@ -23,8 +23,8 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk@master
         with:
-          github_user_name: hoangtien2k3qx1
-          svg_out_path: dist/grid-snake.svg
+          github_user_name: hoangchungk53qx1
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
       - name: Pull
         run: git pull origin main
@@ -32,7 +32,7 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4.15.1
         with:
           commit_message: "[Grid snake] Update action output"
-          file_pattern: dist/grid-snake.svg
-          commit_user_name: hoangtien2k3qx1
-          commit_user_email: hoangtien2k3github@gmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
-          commit_author: Hoang Tien <hoangtien2k3github@gmail.com> # defaults to author of the commit that triggered the run
+          file_pattern: dist/github-contribution-grid-snake.svg
+          commit_user_name: hoangchungk53qx1
+          commit_user_email: hoangchungk53qx1@gmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
+          commit_author: ChungHA <hoangchungk53qx1@gmail.com> # defaults to author of the commit that triggered the run
