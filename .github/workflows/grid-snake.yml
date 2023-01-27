@@ -35,4 +35,4 @@ jobs:
           file_pattern: dist/github-contribution-grid-snake.svg
           commit_user_name: hoangtien2k3qx1
           commit_user_email: hoangtien2k3qx1@gmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
-          commit_author: HoangTien <hoangtien2k3qx1@gmail.com> # defaults to author of the commit that triggered the run
+          commit_author: hoangtien2k3qx1 <hoangtien2k3qx1@gmail.com> # defaults to author of the commit that triggered the run
