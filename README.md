@@ -99,35 +99,8 @@
 </p>
 		
 
-```python
-class MyProFile():
-    
-  def __init__(self):
-    self.name = "Hoàng Anh Tiến";
-    self.username = "hoangtien2k3qx1";
-    self.location = "Hà Nội, Việt Nam";
-    self.email = "hoangtien2k3qx1@gmail.com";
-    self.web = "https://hoangtien2k3.blogspot.com/";
-    
-  def __str__(self):
-    return self.name
-
-if __name__ == '__main__':
-    me = MyProFile()
-```
     
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
-
-
-
-
-
-<!-- 
-[![github contribution grid snake animation](https://raw.githubusercontent.com/hoangtien2k3qx1/hoangtien2k3qx1/main/github-contribution-grid-snake.svg)](https://github.com/hoangtien2k3qx1/hoangtien2k3qx1/blob/main/github-contribution-grid-snake.svg) -->
-
-
 
 
 
