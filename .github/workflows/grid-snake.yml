@@ -1,42 +1,38 @@
-name: Generate Snake
+name: Grid snake
 
 on:
-  schedule:
-      # every 6 hours
-    - cron: "0 */2 * * *"
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
 
-  workflow_dispatch:
+  schedule:
+    - cron: '0 */2 * * *' 
+
+concurrency:
+  group: ${{ github.head_ref || github.ref_name }}
+  cancel-in-progress: false
 
 jobs:
-
   build:
     runs-on: ubuntu-latest
-    
-    steps:
-    
-      - uses: actions/checkout@v2
 
-      - uses: Platane/snk@master
-        id: snake-gif
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@master
         with:
           github_user_name: hoangtien2k3qx1
-         
-          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
-          
-      - run: git status
 
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-          
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
+      - name: Pull
+        run: git pull origin main
 
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: stefanzweifel/git-auto-commit-action@v4.15.1
+        with:
+          commit_message: "[Grid snake] Update action output"
+          file_pattern: dist/github-contribution-grid-snake.svg
+          commit_user_name: hoangtien2k3qx1
+          commit_user_email: hoangtien2k3qx1@gmail.com 
+          commit_author: Hoàng Anh Tiến <hoangtien2k3qx1@gmail.com> 
