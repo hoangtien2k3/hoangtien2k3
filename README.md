@@ -130,10 +130,10 @@
 
   <!-- GitHub Readme Streak Stats - https://github.com/hoangtien2k3qx1/github-readme-streak-stats -->
   <p>
-    <a href="https://github.com/hoangtien2k3qx1/github-readme-streak-stats">
+    <a href="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hoangtien2k3qx1's streak" src="https://streak-stats.demolab.com/?user=hoangtien2k3qx1&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://hoangtien2k3qx1.github.io">hoangtien2k3qx1.github.io/</a></p>
+    <p>🔥 Get streak stats for your profile at <a href="https://hoangtien2k3qx1.github.io">hoangtien2k3qx1.github.io</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
@@ -148,7 +148,7 @@
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=hoangtien2k3qx1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1"><img alt="hoangtien2k3qx1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=hoangtien2k3qx1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
 
 
