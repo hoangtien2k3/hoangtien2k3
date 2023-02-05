@@ -31,7 +31,7 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4.15.1
         with:
-          commit_message: "[Grid snake] Update action output"
+          commit_message: "( ͡° ͜ʖ ͡°)🔥ℝ𝔼𝔸𝔻𝕄𝔼 𝕌ℙ𝔻𝔸𝕋𝔼𝔻🔥( ͡° ͜ʖ ͡°)"
           file_pattern: dist/github-contribution-grid-snake.svg
           commit_user_name: hoangtien2k3qx1
           commit_user_email: hoangtien2k3qx1@gmail.com 
