@@ -133,7 +133,7 @@
     <a href="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hoangtien2k3qx1's streak" src="https://streak-stats.demolab.com/?user=hoangtien2k3qx1&theme=monokai-metallian&hide_border=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://hoangtien2k3qx1.github.io">hoangtien2k3qx1.github.io</a></p>
+    <p>🔥 Get streak stats for your profile at <a href="https://profile-summary-for-github.com/user/hoangtien2k3qx1">https://profile-github/hoangtien2k3qx1</a></p>
   </p>
 
   <h3>💻 GitHub Profile Stats</h3>
