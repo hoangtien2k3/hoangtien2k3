@@ -13,6 +13,7 @@
 - 💬 Ask me about **Android , App.**
 - 📫 How to reach me **hoangtien2k3qx1@gmail.com.**
 - ⚡ Fun fact **I am Funny.**
+- 🔥 Profile at [**https://profile-github/hoangtien2k3qx1**](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
 
 
 <div align="center">
@@ -27,7 +28,7 @@
 	<a href="tel:843"><img width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/apple-phone.png"/></a>
 </p>    
 
-
+	
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -150,5 +151,7 @@
 
   <a href="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1"><img alt="hoangtien2k3qx1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=hoangtien2k3qx1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
+</details>
+
 
 
