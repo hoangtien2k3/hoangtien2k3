@@ -146,6 +146,9 @@
 
   <a href="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1"><img alt="hoangtien2k3qx1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=hoangtien2k3qx1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
+  
+  <a href="https://github.com/hoangtien2k3qx1"><img src="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1/blob/main/profile-3d-contrib/profile-night-rainbow.svg"></a>
+  
 </details>
 
 
