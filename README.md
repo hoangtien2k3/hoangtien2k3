@@ -11,9 +11,9 @@
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning **new technology.**
 - 💬 Ask me about **Android , App.**
-- 📫 How to reach me **hoangtien2k3qx1@gmail.com.**
+- 📫 How to reach me *hoangtien2k3qx1@gmail.com.*
 - ⚡ Fun fact **I am Funny.**
-- 🔥 Profile at [**https://profile-github/hoangtien2k3qx1**](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
+- 🔥 Profile at [*https://profile-github/hoangtien2k3qx1*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
 
 
 <div align="center">
