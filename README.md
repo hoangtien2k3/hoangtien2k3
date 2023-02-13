@@ -6,7 +6,10 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JNPI8kVZ60phuyxmVT/giphy.gif">
 
 
-<a href="https://www.buymeacoffee.com/hoangtien2k3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height=64></a>
+<a href="https://www.buymeacoffee.com/hoangtien2k3" target="_blank"><img src="https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif" alt="Buy Me A Coffee" height=64></a>
+
+<!-- https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif
+https://cdn.buymeacoffee.com/buttons/v2/default-blue.png -->
 
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning **new technology.**
