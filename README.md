@@ -1,7 +1,5 @@
-<!-- <h1 align="center">Hi 👋, I'm Hoang Anh Tien.</h1> -->
-
 <p align="center">
-  <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Hi%F0%9F%91%8B+I'm+Hoang+Anh+Tien."></a>
+  <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ho%C3%A0ng+Anh+Ti%E1%BA%BFn"></a>
 </p> 
 
 
