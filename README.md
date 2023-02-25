@@ -99,11 +99,6 @@ https://cdn.buymeacoffee.com/buttons/v2/default-blue.png -->
 
 
 
-<p align="center">
-  <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F03789&center=true&vCenter=true&width=435&lines=Backend+developer+from+Viet+Nam.;Experienced+with+Backend-Java.;Always+learning+new+technology."></a>
-</p> 
-
-
                                                                                                               
 <p align="left"></table>
 <!-- FOLLOWER-LIST:END -->
