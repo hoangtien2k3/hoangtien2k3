@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Hoang Anh Tien</h1>
 
 <h3 align="center"> </h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/JNPI8kVZ60phuyxmVT/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/122768076/221367410-4454076f-9aa9-49e5-b170-80ee43145e65.png">
 
 
 <a href="https://www.buymeacoffee.com/hoangtien2k3" target="_blank"><img src="https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif" alt="Buy Me A Coffee" height=64></a>
