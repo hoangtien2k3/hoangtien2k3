@@ -1,4 +1,10 @@
-<h1 align="center">Hi 👋, I'm Hoang Anh Tien</h1>
+<!-- <h1 align="center">Hi 👋, I'm Hoang Anh Tien.</h1> -->
+
+<p align="center">
+  <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=F03789&center=true&vCenter=true&repeat=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hoang+Anh+Tien."></a>
+</p> 
+
+
 
 <h3 align="center"> </h3>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/122768076/221367410-4454076f-9aa9-49e5-b170-80ee43145e65.png">
@@ -81,8 +87,9 @@ https://cdn.buymeacoffee.com/buttons/v2/default-blue.png -->
 </div>												      
 
 
-  <p align="center">
-  <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F04C7F&center=true&vCenter=true&width=435&lines=Backend+developer+from+Viet+Nam.;Experienced+with+Backend-Java.;Always+learning+new+technology."></a>
+
+<p align="center">
+  <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F03789&center=true&vCenter=true&width=435&lines=Backend+developer+from+Viet+Nam.;Experienced+with+Backend-Java.;Always+learning+new+technology."></a>
 </p> 
 
 
