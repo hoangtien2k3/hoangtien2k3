@@ -2,6 +2,10 @@
   <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ho%C3%A0ng+Anh+Ti%E1%BA%BFn"></a>
 </p> 
 
+<p align="center">
+  <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F03789&center=true&vCenter=true&width=435&lines=Backend+developer+from+Viet+Nam.;Experienced+with+Backend-Java.;Always+learning+new+technology."></a>
+</p> 
+
 
 <!-- Social icons section -->
 <p align="center">
@@ -37,7 +41,7 @@ https://cdn.buymeacoffee.com/buttons/v2/default-blue.png -->
 - 🔥 Profile at [*https://profile-github/hoangtien2k3qx1*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
 
 
-<!-- <div align="center">
+<div align="center">
  <br/>
 <p align="center">
 	<a href="mailto:hoangtien2k3qx1@gmail.com"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/email.png"/></a>
@@ -47,12 +51,7 @@ https://cdn.buymeacoffee.com/buttons/v2/default-blue.png -->
 	<a href="https://www.instagram.com/hoangtien2k3.vn/"><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://www.youtube.com/channel/UCV9v7sWQb2XTa7bd2cR0hZQ"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/youtube.png"/></a>
 	<a href="tel:843"><img width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/apple-phone.png"/></a>
-</p>     -->
-
-
-<p align="center">
-  <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F03789&center=true&vCenter=true&width=435&lines=Backend+developer+from+Viet+Nam.;Experienced+with+Backend-Java.;Always+learning+new+technology."></a>
-</p> 
+</p>    
 
 
 	
