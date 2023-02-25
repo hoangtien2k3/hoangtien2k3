@@ -1,5 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
-
 <h1 align="center">Hi 👋, I'm Hoang Anh Tien</h1>
 
 <h3 align="center"> </h3>
@@ -13,7 +11,7 @@ https://cdn.buymeacoffee.com/buttons/v2/default-blue.png -->
 
 - 🔭 I’m currently a student.
 - 🌱 I’m currently learning **new technology.**
-- 💬 Ask me about **Backend, Database*
+- 💬 Ask me about **Backend, Database**
 - 📫 How to reach me *hoangtien2k3qx1@gmail.com.*
 - ⚡ Fun fact **I am Funny.**
 - 🔥 Profile at [*https://profile-github/hoangtien2k3qx1*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
