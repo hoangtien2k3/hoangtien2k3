@@ -74,11 +74,7 @@ https://cdn.buymeacoffee.com/buttons/v2/default-blue.png -->
 
   <b> ⚡ </b> Don't be afraid of one person who reads the entire book. Only afraid of people, who read only the cover of the book.
   
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
-  <a href="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1"><img alt="hoangtien2k3qx1's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=hoangtien2k3qx1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-	
-	
 <br>
 <img align="right" alt="Rafa-pic" height="160" style="border-radius:50px;"
    src="https://user-images.githubusercontent.com/91842746/176388483-07e9f019-72fe-4292-90a2-ae26a5303d94.jpg">   
