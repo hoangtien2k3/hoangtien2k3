@@ -82,8 +82,9 @@ https://cdn.buymeacoffee.com/buttons/v2/default-blue.png -->
 
 
   <p align="center">
-  <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=F7627D&lines=Welcome%20to%20Hoang%20Tien's%20GitHub.;App+developer%20from%20Viet%20Nam.;Always%20learning%20new%20things.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F04C7F&center=true&vCenter=true&width=435&lines=Backend+developer+from+Viet+Nam.;Experienced+with+Backend-Java.;Always+learning+new+technology."></a>
 </p> 
+
 
                                                                                                               
 <p align="left"></table>
