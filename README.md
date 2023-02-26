@@ -37,7 +37,6 @@ https://cdn.buymeacoffee.com/buttons/v2/default-blue.png -->
 - 🔥 Profile at [*https://profile-github/hoangtien2k3qx1*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
 
 
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <!-- <div align="center">
  <br/>
