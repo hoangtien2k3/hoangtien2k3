@@ -111,13 +111,11 @@ https://cdn.buymeacoffee.com/buttons/v2/default-blue.png -->
 <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> </a></p><div>                                   <p>
 ##
 <div align="left">
-  <a href="https://www.reddit.com/user/hoangtien2k3" target="_blank"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white" target="_blank"></a>
   <a href="https://leetcode.com/hoangtien2k3/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
   <a href="https://www.hackerrank.com/hoangtien2k3qx1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
   <a href="https://codeforces.com/profile/hoangtien2k3qx1" target="_blank"><img src="https://camo.githubusercontent.com/192b05ae3de2f0d8d73c7b32767d36a88a4706a5eed3b3e139b6aa49da16731e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465666f726365732d3434356639643f7374796c653d666f722d7468652d6261646765266c6f676f3d436f6465666f72636573266c6f676f436f6c6f723d7768697465" target="_blank"></a>
-  <a href="https://stackoverflow.com/users/17357931/ti%e1%ba%bfn" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
-  
-	
+  <a href="https://app.codesignal.com/profile/hoangtien2k3" target="_blank"><img src="https://img.shields.io/badge/CodeSignal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white" target="_blank"></a>
+  <a href="https://stackoverflow.com/users/17357931/ti%e1%ba%bfn" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>	
 
 </div>
 </p>
