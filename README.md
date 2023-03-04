@@ -100,7 +100,7 @@
   <a href="https://leetcode.com/hoangtien2k3/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
   <a href="https://www.hackerrank.com/hoangtien2k3qx1" target="_blank"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" target="_blank"></a>
   <a href="https://codeforces.com/profile/hoangtien2k3qx1" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank"></a>
-  <a href="https://app.codesignal.com/profile/hoangtien2k3" target="_blank"><img src="https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white" target="_blank"></a>
+  <a href="https://app.codesignal.com/profile/hoangtien2k3" target="_blank"><img src="https://img.shields.io/badge/CodeSignal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white" target="_blank"></a>
   <a href="https://stackoverflow.com/users/17357931/ti%e1%ba%bfn" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>	
 
 </div>
