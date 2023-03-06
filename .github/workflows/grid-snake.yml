@@ -1,22 +1,24 @@
 name: Generate Snake
-
 on:
   schedule:
-    - cron: "0 */2 * * *"
-
+      # every 6 hours
+    - cron: "0 */6 * * *"
+    
   workflow_dispatch:
 
 jobs:
+
   build:
     runs-on: ubuntu-latest
     steps:
+    
       - uses: actions/checkout@v2
 
       - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: hoangtien2k3qx1
-
+          
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
