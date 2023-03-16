@@ -76,12 +76,10 @@
 
 <br>
 <img align="right" alt="Rafa-pic" height="110" style="border-radius:50px;"
-   src="https://user-images.githubusercontent.com/122768076/225592906-ab0360e2-0827-4f97-9e53-8a63fe78c858.png">   
-   
-   
-   
-   
+   src="https://user-images.githubusercontent.com/122768076/225595357-4dafc769-364d-48b9-ab8e-9ec604a49a58.png">      
 </div>		
+
+
                                                                                        
 <p align="left"></table>
 <!-- FOLLOWER-LIST:END -->
