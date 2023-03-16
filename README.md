@@ -76,7 +76,8 @@
 
 <br>
 <img align="right" alt="Rafa-pic" height="110" style="border-radius:50px;"
-   src="https://user-images.githubusercontent.com/91842746/176388483-07e9f019-72fe-4292-90a2-ae26a5303d94.jpg">   
+   src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">   
+   
 </div>		
 
 
@@ -85,7 +86,7 @@
 <p align="left"></table>
 <!-- FOLLOWER-LIST:END -->
 
-![](https://komarev.com/ghpvc/?username=hoanngtien2k3&color=238dd9&style=flat&label=Profile_view) <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </a> <a href="https://www.javatpoint.com/cpp-tutorial" target="_blank" rel="noreferrer"> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> </a> <a href="https://www.javatpoint.com/cpp-tutorial" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.javatpoint.com/java-tutorial" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.w3schools.com/kotlin/index.php" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
