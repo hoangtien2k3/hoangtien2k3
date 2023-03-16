@@ -76,9 +76,8 @@
 
 <br>
 <img align="right" alt="Rafa-pic" height="110" style="border-radius:50px;"
-   src="https://user-images.githubusercontent.com/122768076/225595357-4dafc769-364d-48b9-ab8e-9ec604a49a58.png">      
+   src="https://user-images.githubusercontent.com/122768076/225667472-5d7f7ce4-0540-4c35-8446-27d35df38cca.png">      
 </div>		
-
 
                                                                                        
 <p align="left"></table>
