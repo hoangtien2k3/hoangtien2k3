@@ -1,9 +1,9 @@
 <p align="center">
-  <a href="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ho%C3%A0ng+Anh+Ti%E1%BA%BFn"></a>
+  <a href="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1"><img src="https://readme-typing-svg.demolab.com?font=&size=22&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ho%C3%A0ng+Anh+Ti%E1%BA%BFn"></a>
 </p> 
 
 <p align="center">
-  <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F03B9E&center=true&vCenter=true&width=435&lines=Backend+developer+from+Viet+Nam.;Experienced+with+Backend-Java.;Always+learning+new+technology."></a>
+  <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&size=22&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Backend+developer+from+Viet+Nam.;Experienced+with+Backend-Java.;Always+learning+new+technology."></a>
 </p> 
 
 
@@ -37,8 +37,6 @@
 - ⚡ Fun fact **I am Funny.**
 - 🔥 Profile at [*https://profile-github/hoangtien2k3qx1*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
 	
-	
-# []()
 	
 
 <div align="center">
