@@ -8,7 +8,7 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.gg/cFAkCXVQ" alt="Discord" title="Dev Pro Tips Discord Server"><img width="32px" src="https://i.imgur.com/OViZO8J.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/hoangtien_2k3"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://dev.to/hoangtien_2k3"><img width="32px" alt="Dev.to" title="hoangtien2k3qx1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://ko-fi.com/hoangtien2k3"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
@@ -64,5 +64,5 @@
 	
 	
 <a href="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1"><img alt="hoangtien2k3qx1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hoangtien2k3qx1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1"><img alt="hoangtien2k3qx1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3qx1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  <br/>
+<a href="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1"><img alt="hoangtien2k3qx1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3qx1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+<br/>
