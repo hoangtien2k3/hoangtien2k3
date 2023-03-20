@@ -33,11 +33,6 @@
 - ⚡ Fun fact **I am Funny.**
 - 🔥 Profile at [*https://profile-github/hoangtien2k3qx1*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
 
-
-
-<p align="center">
-  <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F03789&center=true&vCenter=true&width=435&lines=Backend+developer+from+Viet+Nam.;Experienced+with+Backend-Java.;Always+learning+new+technology."></a>
-</p> 
 	
 
 <div align="center">
