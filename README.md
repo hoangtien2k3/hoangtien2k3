@@ -38,6 +38,21 @@
 <p align="center">
   <a href="https://github.com/hoangtien2k3qx1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F03789&center=true&vCenter=true&width=435&lines=Backend+developer+from+Viet+Nam.;Experienced+with+Backend-Java.;Always+learning+new+technology."></a>
 </p> 
+
+
+```mermaid
+graph TD;
+    Front-End-->HTML5;
+    Front-End-->CSS3;
+    Front-End-->JavaScript;
+    Front-End-->Angular;
+    Front-End-->React;
+    Front-End-->XML;
+    Front-End-->JSON;
+    Front-End-->Vue;
+    Front-End-->TypeScript;
+    Front-End-->JQuery;
+```
 	
 
 <div align="center">
@@ -100,7 +115,6 @@
   <a href="https://codeforces.com/profile/hoangtien2k3qx1" target="_blank"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank"></a>
   <a href="https://app.codesignal.com/profile/hoangtien2k3" target="_blank"><img src="https://img.shields.io/badge/CodeSignal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white" target="_blank"></a>
   <a href="https://stackoverflow.com/users/17357931/ti%e1%ba%bfn" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>	
-
 </div>
 </p>
 
