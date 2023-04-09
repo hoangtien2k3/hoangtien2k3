@@ -35,7 +35,6 @@
 
 
 
-
 ```mermaid
 graph LR;
     Client-- Gửi request --> Frontend;
@@ -47,7 +46,6 @@ graph LR;
     Frontend-- Hiển thị response --> Client;
 ```
 
-	
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -85,7 +83,7 @@ graph LR;
 
 <br>
 <img align="right" alt="Rafa-pic" height="110" style="border-radius:50px;"
-   src="https://user-images.githubusercontent.com/122768076/225667472-5d7f7ce4-0540-4c35-8446-27d35df38cca.png">      
+   src="https://user-images.githubusercontent.com/122768076/230790148-58977a99-f348-4948-a54a-72c699a9f6b6.png">      
 </div>		
 
                                                                                        
