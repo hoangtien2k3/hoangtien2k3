@@ -27,10 +27,10 @@
 
 
 - 🔭 I’m currently a student.
-- 💬 Ask me about **Backend-Developer**
-- 📫 How to reach me *hoangtien2k3qx1@gmail.com.*
-- ⚡ Fun fact **I am Funny.**
-- 🔥 Profile at [*https://profile-github/hoangtien2k3qx1*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
+- 💬 Ask me about: **Backend-Developer**
+- 📫 How to reach me: *hoangtien2k3qx1@gmail.com.*
+- ⚡ This my github: [*hoangtien2k3qx1.github.io*](hoangtien2k3qx1.github.io)
+- 🔥 Profile at github: [*https://profile-github/hoangtien2k3qx1*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
 
 
 ```mermaid
