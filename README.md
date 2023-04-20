@@ -35,13 +35,13 @@
 
 ```mermaid
 graph LR;
-    Client-- Gửi request --> Frontend;
-    Frontend-- Truyền request --> Backend;
-    Backend-- Xử lý request --> Application;
-    Application-- Truy vấn database --> Database;
-    Application-- Trả về response --> Backend;
-    Backend-- Truyền response --> Frontend;
-    Frontend-- Hiển thị response --> Client;
+    Client-- Send request --> Frontend;
+    Frontend-- Transmit request --> Backend;
+    Backend-- Request handling --> Application;
+    Application-- Database query --> Database;
+    Application-- Return response --> Backend;
+    Backend-- Transmit request --> Frontend;
+    Frontend-- Show response --> Client;
 ```
 
 <div align="center">
