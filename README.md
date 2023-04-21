@@ -22,8 +22,7 @@
 <h3 align="center"> </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif">
 
-
-<a href="https://www.buymeacoffee.com/hoangtien2k3" target="_blank"><img src="https://media.giphy.com/media/OKzddgzQfmmAFSmQyM/giphy.gif" alt="Buy Me A Coffee" height=64></a>
+<a href="https://www.buymeacoffee.com/hoangtien2k3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150px" ></a>
 
 
 - 🔭 I’m currently a student.
