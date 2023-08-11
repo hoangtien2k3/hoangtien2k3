@@ -14,5 +14,5 @@ name: gitartwork from a contribution graph
             # Use this username's contribution graph  
             user_name: hoangtien2k3qx1
             # Text on contribution graph 
-            text: TIEN2003
+            text: TIEN2K3!
        - uses: jasineri/simple-push-action@v1
