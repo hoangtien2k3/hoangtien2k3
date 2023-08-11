@@ -76,8 +76,11 @@ graph LR;
   <br/>
 
 
+
+</details>
+
 <details> 
-  <summary><h2>📊 Github Stats and Activity</h2></summary>
+  <summary><h2>🏷️ Profile-Night</h2></summary>
 
   <h3>🔥 Streak Stats</h3>
 
@@ -102,12 +105,8 @@ graph LR;
 
   <h3>⚡ Recent GitHub Activity</h3>
 
-</details>
-
-<details> 
-  <summary><h2>🏷️ Profile-Night</h2></summary>
-
   <p><a href="hoangtien2k3qx1.github.io"><img src="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@hoangtien2k3qx1&#39;s Web hoangtien2k3qx1"></a></p>
+  
 </details>
 
 
