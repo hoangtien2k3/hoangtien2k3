@@ -82,6 +82,8 @@ graph LR;
 <details> 
   <summary><h2>🏷️ Profile-Night</h2></summary>
 
+  ![TIEN2K3](gitartwork.svg)
+
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
@@ -106,9 +108,8 @@ graph LR;
   <h3>⚡ Recent GitHub Activity</h3>
 
   <p><a href="hoangtien2k3qx1.github.io"><img src="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@hoangtien2k3qx1&#39;s Web hoangtien2k3qx1"></a></p>
-  
+
+![]()
+
 </details>
-
-
-![TIEN2K3](gitartwork.svg)
 
