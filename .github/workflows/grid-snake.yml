@@ -1,52 +1,38 @@
-name: Snake Animations
+name: Grid snake
+
 on:
-  workflow_dispatch:
-  pull_request:
   push:
-    branches: [main]
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
   schedule:
-    - cron: "0 16 * * *"
+    - cron: '0 */2 * * *' # Runs on the 0, 2, 4, 6, 8, 10, 12, 14, 16, 18, 20 and 22nd hour.
+
+concurrency:
+  group: ${{ github.head_ref || github.ref_name }}
+  cancel-in-progress: false
+
 jobs:
-  generate:
-    name: Generate Animations
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Generate snake animations
-        uses: Platane/snk@v3.1.0
+      - uses: actions/checkout@v3
+
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@master
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/grid-snake.svg
-            dist/grid-snake-dark.svg?palette=github-dark
-            dist/grid-snake-light.svg?palette=github-light
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_user_name: hoangchungk53qx1
+          svg_out_path: dist/github-contribution-grid-snake.svg
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v2.0.0
+      - name: Pull
+        run: git pull origin main
+
+      - uses: stefanzweifel/git-auto-commit-action@v4.15.1
         with:
-          path: dist
-
-  deploy:
-    name: Deploy to Pages
-    if: github.event_name != 'pull_request'
-    needs: generate
-    runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    concurrency:
-      group: pages
-      cancel-in-progress: false
-    steps:
-      - name: Configure Pages
-        uses: actions/configure-pages@v3.0.6
-
-      - name: Deploy to Pages
-        id: deployment
-        uses: actions/deploy-pages@v2.0.4
-
+          commit_message: "[Grid snake] Update action output"
+          file_pattern: dist/github-contribution-grid-snake.svg
+          commit_user_name: hoangtien2k3qx1
+          commit_user_email: hoangtien2k3qx1@gmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
+          commit_author: hoangtien2k3 <hoangtien2k3qx1@gmail.com> # defaults to author of the commit that triggered the run
