@@ -2,7 +2,7 @@ name: Metrics - Sponsors goal
 
 on:
   schedule:
-    - cron: "0 15 * * *"
+    - cron: "0 21 * * *"
   workflow_dispatch:
 
 jobs:
