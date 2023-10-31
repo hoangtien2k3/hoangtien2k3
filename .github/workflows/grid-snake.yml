@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: hoangtien2k3qx1
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/grid-snake.svg
+            dist/grid-snake-dark.svg?palette=github-dark
         env:
           # a GitHub token is required to fetch the contribution calendar from GitHub API
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -31,7 +31,7 @@ jobs:
 
       - uses: stefanzweifel/git-auto-commit-action@v4.15.1
         with:
-          commit_message: "[Grid snake] Update action output"
+          commit_message: "[Grid snake]"
           file_pattern: 'dist/*.svg'
           commit_user_name: hoangtien2k3qx1
           commit_user_email: hoangtien2k3qx1@gmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
