@@ -86,6 +86,8 @@ graph LR;
 
   ![TIEN2K3](gitartwork.svg)
 
+  ![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3qx1/hoangtien2k3qx1/main/dist/github-contribution-grid-snake.svg)
+
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
