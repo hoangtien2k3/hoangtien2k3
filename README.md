@@ -76,9 +76,6 @@ graph LR;
   <br/>
 
 
-![](https://raw.githubusercontent.com/hoangtien2k3qx1/hoangtien2k3qx1/main/dist/github-contribution-grid-snake.svg)
-
-
 </details>
 
 <details> 
