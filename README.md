@@ -26,9 +26,9 @@
 
 
 - 🔭 I’m currently a student.
-- 💬 **I am a fan of CR7's movement.**
-- 📫 How to reach me: *hoangtien2k3qx1@gmail.com*
-- ⚡ This my website: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
+- 🔱 **I am a fan of `CR7's` movement.**
+- 📫 How to reach me: hoangtien2k3qx1@gmail.com
+- ⚡ This my website: [hoangtien2k3qx1.github.io](https://hoangtien2k3qx1.github.io/)
 - 🔥 Profile at Github: [*https://profile-github/hoangtien2k3qx1*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
 
 
@@ -79,7 +79,7 @@ graph LR;
 </details>
 
 <details> 
-  <summary><h2>🏷️ Profile-Night</h2></summary>
+  <summary><h3>🏷️ profile-markdown ⭐</h3></summary> 
 
   ![TIEN2K3](gitartwork.svg)
 
@@ -95,7 +95,7 @@ graph LR;
     <p>🔥 Get streak stats for your profile at <a href="hoangtien2k3qx1.github.io">hoangtien2k3qx1.github.io</a></p>
   </p>
 
-  <h3>💻 GitHub Profile Stats</h3>
+  <h3>💻💬 GitHub Profile Stats</h3>
 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hoangtien2k3qx1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hoangtien2k3qx1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hoangtien2k3qx1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3qx1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
