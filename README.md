@@ -79,7 +79,7 @@ graph LR;
 </details>
 
 <details> 
-  <summary><h3>🏷️ information⭐</h3></summary> 
+  <summary><h3>information ⭐</h3></summary> 
 
   ![TIEN2K3](gitartwork.svg)
 
