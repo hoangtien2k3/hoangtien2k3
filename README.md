@@ -22,58 +22,55 @@
 <h3 align="center"> </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif">
 
-<a href="https://www.buymeacoffee.com/hoangtien2k3" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" width="150px" ></a>
 
 
-- 🔱 **I am a fan of `CR7's` movement.**
+<details>
+  <summary>𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙍𝙚𝙖𝙙𝙢𝙚 💻<h2> </h2></summary>
+
+  ![TIEN2K3](gitartwork.svg)
+
+  ![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3qx1/hoangtien2k3qx1/main/dist/github-contribution-grid-snake.svg)
+
+  <h3>🔥 Streak Stats</h3>
+
+  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+  <p>
+    <a href="https://github.com/hoangtien2k3qx1/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hoangtien2k3qx1's streak" src="https://streak-stats.demolab.com/?user=hoangtien2k3qx1&theme=monokai-metallian&hide_border=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="hoangtien2k3qx1.github.io">hoangtien2k3qx1.github.io</a></p>
+  </p>
+
+  <h3>💻💬 GitHub Profile Stats</h3>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hoangtien2k3qx1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hoangtien2k3qx1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hoangtien2k3qx1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3qx1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <br/>
+
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="hoangtien2k3qx1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hoangtien2k3qx1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+  <h3>⚡ Recent GitHub Activity</h3>
+
+ <a href="https://commits.top/vietnam.html">
+  <img src="http://iot.fbiego.com/api/v1/commits?user=hoangtien2k3qx1&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035">
+  </a>
+  <a href="https://commits.top/vietnam_private.html">
+  <img src="http://iot.fbiego.com/api/v1/commits?user=hoangtien2k3qx1&country=VietNam_Private&bg_color=293035&text_color=fafafa&border_color=293035">
+  </a>
+
+  <p><a href="hoangtien2k3qx1.github.io"><img src="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@hoangtien2k3qx1's Web hoangtien2k3qx1"></a></p>
+
+</details>
+
+
+- ⭐ T'm a student.
+- 🔱 I am a fan of `CR7's` movement.
 - 📫 How to reach me: hoangtien2k3qx1@gmail.com
 - ⚡ This my website: [hoangtien2k3qx1.github.io](https://hoangtien2k3qx1.github.io/)
 - 🔥 Profile at Github: [*https://profile-github/hoangtien2k3qx1*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
 
-
-- </details>
-	
-	<details> 
-	  <summary>⭐ Information<h2></h2></summary> 
-	
-	  ![TIEN2K3](gitartwork.svg)
-	
-	  ![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3qx1/hoangtien2k3qx1/main/dist/github-contribution-grid-snake.svg)
-	
-	  <h3>🔥 Streak Stats</h3>
-	
-	  <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-	  <p>
-	    <a href="https://github.com/hoangtien2k3qx1/github-readme-streak-stats">
-	      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hoangtien2k3qx1's streak" src="https://streak-stats.demolab.com/?user=hoangtien2k3qx1&theme=monokai-metallian&hide_border=true"/>
-	    </a>
-	    <p>🔥 Get streak stats for your profile at <a href="hoangtien2k3qx1.github.io">hoangtien2k3qx1.github.io</a></p>
-	  </p>
-	
-	  <h3>💻💬 GitHub Profile Stats</h3>
-	
-	  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hoangtien2k3qx1's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hoangtien2k3qx1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-	  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="hoangtien2k3qx1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3qx1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-	  <br/>
-	
-	  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-	  
-	
-	  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="hoangtien2k3qx1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hoangtien2k3qx1&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-	
-	  <h3>⚡ Recent GitHub Activity</h3>
-	
-	 <a href="https://commits.top/vietnam.html">
-	  <img src="http://iot.fbiego.com/api/v1/commits?user=hoangtien2k3qx1&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035">
-	  </a>
-	  <a href="https://commits.top/vietnam_private.html">
-	  <img src="http://iot.fbiego.com/api/v1/commits?user=hoangtien2k3qx1&country=VietNam_Private&bg_color=293035&text_color=fafafa&border_color=293035">
-	  </a>
-	
-	
-	  <p><a href="hoangtien2k3qx1.github.io"><img src="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@hoangtien2k3qx1&#39;s Web hoangtien2k3qx1"></a></p>
-	
-	</details>
 
 
 
