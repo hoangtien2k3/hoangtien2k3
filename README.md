@@ -23,7 +23,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif">
 
 
-
 <details>
   <summary>𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙍𝙚𝙖𝙙𝙢𝙚 💻<h2> </h2></summary>
 
@@ -65,8 +64,8 @@
 </details>
 
 
-- ⭐ T'm a student.
-- 🔱 I am a fan of `CR7's` movement.
+- 🔱 I'm a true fan of `CR7's` and the player is *GOAT*.
+- ⭐ I'm a student and have a passion for `backend development`.
 - 📫 How to reach me: hoangtien2k3qx1@gmail.com
 - ⚡ This my website: [hoangtien2k3qx1.github.io](https://hoangtien2k3qx1.github.io/)
 - 🔥 Profile at Github: [*https://profile-github/hoangtien2k3qx1*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
