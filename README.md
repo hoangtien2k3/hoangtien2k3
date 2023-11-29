@@ -20,7 +20,7 @@
 
 
 <details>
-  <summary><h3> 💻 Here are facts about me to get you started: </h3></summary>
+  <summary><h4> 💻 Here are facts about me to get you started: </h4></summary>
 
   ![TIEN2K3](gitartwork.svg)
 
