@@ -19,12 +19,9 @@
 </p>
 
 
-<h3 align="center"> </h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/vLpclx5lofmqnEswm0/giphy.gif">
-
 
 <details>
-  <summary>𝙋𝙧𝙤𝙛𝙞𝙡𝙚 𝙍𝙚𝙖𝙙𝙢𝙚 💻<h2> </h2></summary>
+  <summary><h4> 💻 Here are facts about me to get you started: </h4></summary>
 
   ![TIEN2K3](gitartwork.svg)
 
@@ -64,13 +61,13 @@
 </details>
 
 
-- 🔱 I'm a true fan of `CR7's` and the player is *GOAT*.
-- ⭐ I'm a student and have a passion for `backend development`.
-- 📫 How to reach me: hoangtien2k3qx1@gmail.com
-- ⚡ This my website: [hoangtien2k3qx1.github.io](https://hoangtien2k3qx1.github.io/)
-- 🔥 Profile at Github: [*https://profile-github/hoangtien2k3qx1*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
-
-
+- 🔭 I’m currently working on a new exciting project. ⭐ stay tuned...
+- 🤩 I'm very passionate about personal and financial well-being, and productivity.
+- 🌱 I’m currently learning 🔱 `Backend development` with `Java`/`Kotlin` using Spring boot and CI/CD with `Microservice Architecture`, 💬 learning deploy-server.
+- 👯 I’m looking to collaborate on any backend projects. I love learning anything new (good things, of course, 😅) under the sun
+- 💬 Ask me about Java, Kotlin, or C++, 🔥 [*profile-summary-for-github*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
+- 📫 How to reach me `gmail`: [*hoangtien2k3qx1@gmail.com*]() or `my website`: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
+- ⚡ Fun fact (but also weird): Like fingerprints, everyone's tongue print is different 💪🏾
 
 
 ```mermaid
