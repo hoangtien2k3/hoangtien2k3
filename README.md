@@ -70,17 +70,6 @@
 - ⚡ Fun fact (but also weird): Like fingerprints, everyone's tongue print is different 💪🏾
 
 
-```mermaid
-graph LR;
-    Client-- Send request --> Frontend;
-    Frontend-- Transmit request --> Backend;
-    Backend-- Request handling --> Application;
-    Application-- Database query --> Database;
-    Application-- Return response --> Backend;
-    Backend-- Transmit request --> Frontend;
-    Frontend-- Show response --> Client;
-```
-
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
