@@ -64,8 +64,8 @@
 - 🤩 I'm very passionate about personal and financial well-being, and productivity.
 - 🌱 I’m currently learning Backend development with Java/Kotlin using Spring boot, CI/CD with Microservice Architecture...
 - 👯 I’m looking to collaborate on any backend projects. I love learning anything new (good things, of course, 😅).
-- 💬 Ask me about Java, Kotlin, or C++, [*profile-summary-for-github*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
-- 📫 How to reach me `gmail`: [*hoangtien2k3qx1@gmail.com*]() or `my website`: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
+- 💬 Ask me about Java, Kotlin, or C++, [*summary-for-github*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
+- 📫 How to reach me gmail: hoangtien2k3qx1@gmail.com or my website: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
 - 🔥 Don't forget to follow and start my project here.
 
 [![Made with Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://hoangtien2k3qx1.github.io/)
