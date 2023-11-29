@@ -61,13 +61,12 @@
 </details>
 
 
-- 🔭 I’m currently working on a new exciting project. ⭐ stay tuned...
+- 🔭 I’m currently working on a new exciting project. stay tuned...
 - 🤩 I'm very passionate about personal and financial well-being, and productivity.
-- 🌱 I’m currently learning 🔱 `Backend development` with `Java`/`Kotlin` using Spring boot and CI/CD with `Microservice Architecture`, 💬 learning deploy-server.
+- 🌱 I’m currently learning Backend development with Java/Kotlin using Spring boot, CI/CD with Microservice Architecture...
 - 👯 I’m looking to collaborate on any backend projects. I love learning anything new (good things, of course, 😅) under the sun
-- 💬 Ask me about Java, Kotlin, or C++, 🔥 [*profile-summary-for-github*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
+- 💬 Ask me about Java, Kotlin, or C++, [*profile-summary-for-github*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
 - 📫 How to reach me `gmail`: [*hoangtien2k3qx1@gmail.com*]() or `my website`: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
-- ⚡ Fun fact (but also weird): Like fingerprints, everyone's tongue print is different 💪🏾
 
 
 <div align="center">
