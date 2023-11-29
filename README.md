@@ -67,6 +67,7 @@
 - 👯 I’m looking to collaborate on any backend projects. I love learning anything new (good things, of course, 😅) under the sun
 - 💬 Ask me about Java, Kotlin, or C++, [*profile-summary-for-github*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
 - 📫 How to reach me `gmail`: [*hoangtien2k3qx1@gmail.com*]() or `my website`: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
+- 🔥 Don't forget to follow and start my project here.
 
 
 <div align="center">
