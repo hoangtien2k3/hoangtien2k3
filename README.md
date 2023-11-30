@@ -20,14 +20,16 @@
 
 
 #### **Here are facts about me to get you started**
-- I’m currently working on a new exciting project. stay tuned...
-- I’m learning **Backend** development with `Java`/`Kotlin` using **Spring boot**, *CI/CD* with `Microservice Architecture`...
-- I’m looking to collaborate on any backend projects. I love learning anything new 😅.
-- Ask me about *Java, Kotlin*, or *C++*, [*summary-for-github*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
-- How to reach me `gmail`: hoangtien2k3qx1@gmail.com or my `website`: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
-- Don't forget to follow and start my project here.
+- 🔭 I’m currently working on a new exciting project. stay tuned...
+- 🌱 I’m learning **Backend** development with `Java`/`Kotlin` using **Spring boot**, *CI/CD* with `Microservice Architecture`...
+- 💬 I’m looking to collaborate on any backend projects. I love learning anything new 😅.
+- 😍 Ask me about *Java, Kotlin*, or *C++*, [*summary-for-github*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
+- 🧛🏻‍♂️ How to reach me `gmail`: hoangtien2k3qx1@gmail.com or my `website`: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
+- ⚡ Don't forget to follow and start my project here.
+
 
 ##
+
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
