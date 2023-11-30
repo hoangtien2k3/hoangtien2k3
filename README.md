@@ -19,17 +19,15 @@
 </p>
 
 
-#### Here are facts about me to get you started
-- 🔭 I’m currently working on a new exciting project. stay tuned...
-- 🌱 I’m currently learning **Backend development** with *Java/Kotlin* using *Spring boot*, *CI/CD* with *Microservice Architecture...*
-- 👯 I’m looking to collaborate on any backend projects. I love learning anything new (good things, of course, 😅).
-- 💬 Ask me about Java, Kotlin, or C++, [*summary-for-github*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
-- 📫 How to reach me gmail: hoangtien2k3qx1@gmail.com or my website: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
-- 🔥 Don't forget to follow and start my project here.
-
+#### **Here are facts about me to get you started**
+- I’m currently working on a new exciting project. stay tuned...
+- I’m learning **Backend development** with *Java/Kotlin* using *Spring boot*, *CI/CD* with *Microservice Architecture...*
+- I’m looking to collaborate on any backend projects. I love learning anything new 😅.
+- Ask me about Java, Kotlin, or C++, [*summary-for-github*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
+- How to reach me gmail: hoangtien2k3qx1@gmail.com or my website: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
+- Don't forget to follow and start my project here.
 
 ##
-
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -62,8 +60,9 @@
 <a href="https://github.com/hoangtien2k3qx1/hoangtien2k3qx1"><img alt="hoangtien2k3qx1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3qx1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
 
+
 <details>
-  <summary><h6> Details about me </h6></summary>
+  <summary><h5> Details about me </h5></summary>
 
   ![TIEN2K3](gitartwork.svg)
 
