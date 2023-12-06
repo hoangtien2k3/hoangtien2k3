@@ -21,14 +21,16 @@
 [<img align="right" width="390" alt="🦑" src="https://user-images.githubusercontent.com/22963968/190084456-0e077445-abae-4355-8061-5f0830a48d6e.png">](#)
 
 
-## Hi, Good day!
+## 👋 Hi there, G'day!
 
 #### **Here are facts about me to get you started**
 - 🔭 I’m currently working on a new exciting project. stay tuned...
 - 🌱 I’m learning **Backend** development with `Java` + `Kotlin` using **Spring boot**, *CI/CD* with `Microservice Architecture` + `Reactor Core` is fully non-blocking and multithreading, the library that implements the reactive programming model.
 - 💬 I’m looking to collaborate on any backend projects. I love learning anything new 😅.
 - 😍 Ask me about *Java, Kotlin*, or *C++*, *Spring boot*, and "Microservice Architecture"... [*summary-for-github*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
-- 🧛🏻‍♂️ How to reach me `gmail`: hoangtien2k3qx1@gmail.com or my `website`: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
+- 🤝 Connect with me::
+  -  `gmail`: hoangtien2k3qx1@gmail.com
+  -  `website`: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
 - ⚡ Don't forget to follow and start my project here.
 
   
