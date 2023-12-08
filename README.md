@@ -26,11 +26,12 @@
 #### **Here are facts about me to get you started**
 - 🔭 I’m currently working on a new exciting project. stay tuned...
 - 🌱 I’m learning **Backend** development with `Java` + `Kotlin` using **Spring boot**, *CI/CD* with `Microservice Architecture` + `Reactor Core` is fully non-blocking and multithreading, the library that implements the reactive programming model.
-- 💬 I’m looking to collaborate on any backend projects. I love learning anything new 😅.
-- 😍 Ask me about *Java, Kotlin*, or *C++*, *Spring boot*, and "Microservice Architecture"... [*summary-for-github*](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
+- 💬 I’m looking to collaborate on any backend projects. I learning anything new.
+- 😍 Ask me about *Java, Kotlin*, *C++*, architecture 😅 [summary-github](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
+  
 - 🤝 Connect with me::
-  -  `gmail`: hoangtien2k3qx1@gmail.com
-  -  `website`: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
+  -  `Gmail`: hoangtien2k3qx1@gmail.com
+  -  `Website`: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
 - ⚡ Don't forget to follow and start my project here.
 
   
