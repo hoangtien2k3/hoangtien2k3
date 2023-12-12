@@ -29,7 +29,7 @@
 - 🤝 Let's connect with me:
   -  `Gmail`: hoangtien2k3qx1@gmail.com
   -  `Website`: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
-- ⚡ Don't forget to follow and star, support my projects! Thanks ❤️💕✌️
+- ⚡ Don't forget to follow and star, support my projects! ❤️💕✌️
 
   
 <details>
