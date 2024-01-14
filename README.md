@@ -23,7 +23,7 @@
 
 #### **Here are facts about me to get you started**
 - 🔭 Currently immersed in an exciting new project - stay tuned for updates!
-- 🌱 I’m learning **Backend** development with `Java` + `Kotlin` using **Spring boot**, *CI/CD* with `Microservice Architecture` + `Reactor Core` is fully non-blocking and multithreading, the library that implements the reactive programming model and am learning more about kafka.
+- 🌱 I’m learning **Backend** development with `Java` + `Kotlin` using **Spring boot**, *CI/CD* with `Microservice Architecture` `Reactor Core` is fully non-blocking and multithreading, the library that implements the reactive programming model and am learning more about kafka.
 - 💬 Open to collaboration on any backend projects and always eager to learn something new.
 - 😍 Ask me about *Java, Kotlin* ... 😅[profile-summary-for-github](https://profile-summary-for-github.com/user/hoangtien2k3qx1)
 - 🤝 Let's connect! Find me on
