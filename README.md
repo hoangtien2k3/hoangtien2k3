@@ -30,7 +30,6 @@
   -  `website`: [*hoangtien2k3qx1.github.io*](https://hoangtien2k3qx1.github.io/)
 - ⚡ Don't forget to follow and star, support my projects! ❤️💕✌️
 
-##
 
 <details>
   <summary><h5> 😅 𝒟ℯ𝓉𝒶𝒾𝓁𝓈 𝒶𝒷ℴ𝓊𝓉 𝓂ℯ </h5></summary>
@@ -100,7 +99,7 @@
   
 </details>
 
-
+##
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -116,7 +115,8 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>    
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>   
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
 </div>
 
 
