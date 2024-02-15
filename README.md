@@ -32,7 +32,7 @@
 
 
 <details>
-  <summary><h5> 😅 𝒟ℯ𝓉𝒶𝒾𝓁𝓈 𝒶𝒷ℴ𝓊𝓉 𝓂ℯ </h5></summary>
+  <summary><h5> 😅 Details about me</h5></summary>
 
   ![TIEN2K3](gitartwork.svg)
 
