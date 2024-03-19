@@ -37,9 +37,6 @@
 
   ![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg)
 
-  ![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake-dark.svg)
-
-
 ```diff
 +@@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @@+ +@@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @@+
 @@        o o                                            @@ @@      _____               _                        @@
