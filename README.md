@@ -16,12 +16,9 @@
   <a href="https://www.buymeacoffee.com/hoangtien2k3"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a>
 </p>
 
-[<img align="right" width="390" alt="🦑" src="banner.png">](#)
 
 
 ## Hi there, Good day! 👋 
-
-#### **Here are facts about me to get you started**
 - 🔭 Currently immersed in an exciting new project - stay tuned for updates!
 - 💬 Open to collaboration on any backend projects and always eager to learn something new.
 - 😍 Ask me about *Java, Kotlin* ... 😅[profile-summary-for-github](https://profile-summary-for-github.com/user/hoangtien2k3)
@@ -31,10 +28,8 @@
 - ⚡ Don't forget to follow and star, support my projects! ❤️💕✌️
 
 
-#### Details about me 😅 ⚡ = 💗💎❤️
-
 <details>
-<summary>⚡ Grid Snake</summary>
+<summary>💻💬 GitHub Profile Stats</summary>
   
 ![TIEN2K3](gitartwork.svg)
 
@@ -126,8 +121,6 @@
 </details>
 
 
-
-<h3>💻💬 GitHub Profile Stats</h3>
 
   <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
