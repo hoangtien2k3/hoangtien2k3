@@ -19,7 +19,7 @@
 [<img align="right" width="390" alt="🦑" src="banner.png">](#)
 
 
-## 👋 Hi there, Good day!
+### Hi there, Good day! 👋 
 
 #### **Here are facts about me to get you started**
 - 🔭 Currently immersed in an exciting new project - stay tuned for updates!
