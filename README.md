@@ -30,11 +30,12 @@ I am a backend developer, I have worked as a software developer since 2021 and l
 - ⚡ Don't forget to follow and star, support my projects! 😅 [profile-summary-for-github](https://profile-summary-for-github.com/user/hoangtien2k3) 
 
 ## My Favorite Technologies
-![](https://img.shields.io/badge/OS-windows-0078D6?style=flat&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/OS-macos-0078D6?style=flat&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/OS-Linux-000000?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/OS-Spring-0078D6?style=flat&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/OS-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![](https://img.shields.io/badge/lang-kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/lang-java-007396?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Lang-kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Lang-java-007396?style=flat&logo=java&logoColor=white)
 ![](https://img.shields.io/badge/IDE-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![](https://img.shields.io/badge/IDE-IntelliJIDEA-0078D6?style=flat&logo=intellij-idea&logoColor=white)
 
