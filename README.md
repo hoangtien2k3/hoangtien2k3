@@ -17,6 +17,9 @@
 </p>
 
 
+## About me
+I am a backend developer, I have worked as a software developer since 2021 and later focused extensively on backend applications since 2022.  A computer geek who enjoys building backend systems, learning new things every day, reading books about personal development, and video games. In addition to learning knowledge, I ran a YouTube channel called "Hoàng Anh Tiến" on which I share my experiences developing backend systems.
+
 ## Hi there, Good day! 👋 
 - ⚡ Currently I am a 3rd year student of information technology department
 - 🔭 Really Love new challenges
@@ -40,7 +43,7 @@
 
 
 <details>
-<summary> 💻💬 GitHub Profile Stats</summary>
+<summary> 💻💬 More information about me</summary>
   
 ![TIEN2K3](gitartwork.svg)
 
