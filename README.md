@@ -18,10 +18,25 @@
 
 
 ## Hi there, Good day! 👋 
-- 😍 Ask me about *C, C++, Java, Kotlin* ... 😅 [profile-summary-for-github](https://profile-summary-for-github.com/user/hoangtien2k3)
+- ⚡ Currently I am a 3rd year student of information technology department
+- 🔭 Really Love new challenges
+- 💬 Open to collaboration on any backend projects and always eager to learn something new.
+- 😍 Ask me about Backend development, I may be able to answer 😅 [profile-summary-for-github](https://profile-summary-for-github.com/user/hoangtien2k3)
 - 🤝 Let's connect! Find me on
-  -  `Gmail`: hoangtien2k3qx1@gmail.com
-  -  `Website`: [*hoangtien2k3.github.io*](https://hoangtien2k3.github.io/)
+  -  Gmail: hoangtien2k3qx1@gmail.com
+  -  Website: [*https://hoangtien2k3.github.io*](https://hoangtien2k3.github.io/)
+  -  Linkedin: [*https://www.linkedin.com/in/hoangtien2k3/*](https://www.linkedin.com/in/hoangtien2k3/)
+  -  Youtube: [Hoàng Anh Tiến ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCV9v7sWQb2XTa7bd2cR0hZQ?style=social)](https://www.youtube.com/@hoangtien2k3)
+- ⚡ Don't forget to follow and star, support my projects! ❤️💕✌️
+
+## My Favorite Technologies
+![](https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=informational)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
+![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=informational)
+![](https://img.shields.io/badge/lang-kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=informational)
+![](https://img.shields.io/badge/lang-java-informational?style=flat&logo=java&logoColor=white&color=informational)
+![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android&logoColor=white&color=informational)
+![](https://img.shields.io/badge/IDE-IntelliJIDEA-informational?style=flat&logo=IntelliJ-IDEA&logoColor=white&color=informational)
 
 
 <details>
