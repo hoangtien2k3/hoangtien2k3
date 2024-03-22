@@ -26,10 +26,10 @@ I am a backend developer and have focused extensively on backend applications. I
   -  Gmail: hoangtien2k3qx1@gmail.com
   -  Website: [*https://hoangtien2k3.github.io*](https://hoangtien2k3.github.io/)
   -  Linkedin: [*https://www.linkedin.com/in/hoangtien2k3/*](https://www.linkedin.com/in/hoangtien2k3/)
-  -  Youtube: [Hoàng Anh Tiến ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCV9v7sWQb2XTa7bd2cR0hZQ?style=social)](https://www.youtube.com/@hoangtien2k3)
-- ⚡ Don't forget to follow and star, support my projects! 😅 [profile-summary-for-github](https://profile-summary-for-github.com/user/hoangtien2k3) 
+  -  Youtube: [*@hoangtien2k3* ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCV9v7sWQb2XTa7bd2cR0hZQ?style=social)](https://www.youtube.com/@hoangtien2k3)
+- 💕 Don't forget to follow and star, support my projects! 😅 [*profile-summary-for-github*](https://profile-summary-for-github.com/user/hoangtien2k3) 
 
-## My favorite technologies
+## Favorite technologies
 ![](https://img.shields.io/badge/OS-macos-0078D6?style=flat&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/OS-Linux-000000?style=flat&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/OS-Spring-0078D6?style=flat&logo=spring&logoColor=white)
@@ -41,7 +41,7 @@ I am a backend developer and have focused extensively on backend applications. I
 
 
 <details>
-<summary> 💻💬 More information about me 
+<summary> 💻 More information about me 
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge"> 
   ✌️ 
 </summary> 
