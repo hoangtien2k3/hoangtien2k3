@@ -17,15 +17,14 @@
 </p>
 
 
-## About me
-I am a backend developer, I have worked as a software developer since 2021 and later focused extensively on backend applications since 2022.  A computer geek who enjoys building backend systems, learning new things every day, reading books about personal development, and video games. In addition to learning knowledge, I ran a YouTube channel called "Hoàng Anh Tiến" on which I share my experiences developing backend systems.
+## 👋 Hi there, About me
+I am a backend developer, I have worked as a software developer since 2021 and later focused extensively on backend applications since 2022. A computer geek who enjoys building backend systems, learning new things every day, reading books about personal development, and video games. In addition to learning knowledge, I ran a fan page channel called [@hoangtien2k3](https://www.facebook.com/hoangtien2k3) on which I share my experiences developing backend systems và algorithms.
 
-## Hi there, Good day! 👋 
 - ⚡ Currently I am a 3rd year student of information technology department
 - 🔭 Really Love new challenges
 - 💬 Open to collaboration on any backend projects and always eager to learn something new.
 - 😍 Ask me about Backend development, I may be able to answer 😅 ❤️💕✌️ [*fanpage - support code*](https://www.facebook.com/hoangtien2k3.vn/)
-- 🤝 Let's connect! Find me on
+- 📫 Let's connect! Find me on
   -  Gmail: hoangtien2k3qx1@gmail.com
   -  Website: [*https://hoangtien2k3.github.io*](https://hoangtien2k3.github.io/)
   -  Linkedin: [*https://www.linkedin.com/in/hoangtien2k3/*](https://www.linkedin.com/in/hoangtien2k3/)
@@ -33,18 +32,18 @@ I am a backend developer, I have worked as a software developer since 2021 and l
 - ⚡ Don't forget to follow and star, support my projects! 😅 [profile-summary-for-github](https://profile-summary-for-github.com/user/hoangtien2k3) 
 
 ## My Favorite Technologies
-![](https://img.shields.io/badge/OS-windows-informational?style=flat&logo=windows&logoColor=white&color=informational)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=informational)
-![](https://img.shields.io/badge/OS-Android-informational?style=flat&logo=android&logoColor=white&color=informational)
-![](https://img.shields.io/badge/lang-kotlin-informational?style=flat&logo=kotlin&logoColor=white&color=informational)
-![](https://img.shields.io/badge/lang-java-informational?style=flat&logo=java&logoColor=white&color=informational)
-![](https://img.shields.io/badge/IDE-Android_Studio-informational?style=flat&logo=android&logoColor=white&color=informational)
-![](https://img.shields.io/badge/IDE-IntelliJIDEA-informational?style=flat&logo=IntelliJ-IDEA&logoColor=white&color=informational)
+![](https://img.shields.io/badge/OS-windows-0078D6?style=flat&logo=windows&logoColor=white)
+![](https://img.shields.io/badge/OS-Linux-000000?style=flat&logo=linux&logoColor=white)
+![](https://img.shields.io/badge/OS-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![](https://img.shields.io/badge/lang-kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/lang-java-007396?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/IDE-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
+![](https://img.shields.io/badge/IDE-IntelliJIDEA-0078D6?style=flat&logo=intellij-idea&logoColor=white)
 
 
 <details>
-<summary> 💻💬 More information about me</summary>
-  
+<summary> 💻💬 More information about me <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge"> </summary> 
+
 ![TIEN2K3](gitartwork.svg)
 
 ![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg)
