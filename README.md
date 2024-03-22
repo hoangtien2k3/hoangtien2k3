@@ -18,10 +18,10 @@
 
 
 ## 👋 Hi there, About me
-I am a backend developer, I have worked as a software developer since 2021 and later focused extensively on backend applications since 2022. A computer geek who enjoys building backend systems, learning new things every day, reading books about personal development, and video games. In addition to learning knowledge, I ran a fan page channel called [*fanpage - support code*](https://www.facebook.com/hoangtien2k3) on which I share my experiences developing backend systems và algorithms.
+I am a backend developer and have focused extensively on backend applications. I am a computer geek who enjoys building backend systems, learning new things daily, reading books about personal development, and playing video games. I have a page [*fanpage - support code*](https://www.facebook.com/hoangtien2k3) specializing in my experiences sharing code and algorithms. 
 
 - ⚡ Currently I am a 3rd year student of information technology department, Really Love new challenges
-- 😍 Ask me about Backend development, I may be able to answer 😅 ❤️💕✌️ [*fanpage - support code*](https://www.facebook.com/hoangtien2k3.vn/)
+- 😍 Ask me about Backend development, I may be able to answer 😅 ❤️💕✌️ 
 - 📫 Let's connect! Find me on
   -  Gmail: hoangtien2k3qx1@gmail.com
   -  Website: [*https://hoangtien2k3.github.io*](https://hoangtien2k3.github.io/)
