@@ -17,7 +17,7 @@
 </p>
 
 
-## 👋 Hi there, About me
+## Hi there, Good day! 👋
 I am a backend developer and have focused extensively on backend applications. I am a computer geek who enjoys building backend systems, learning new things daily, reading books about personal development, and playing video games. I have a page [*fanpage - support code*](https://www.facebook.com/hoangtien2k3) specializing in my experiences sharing code and algorithms. 
 
 - ⚡ Currently I am a 3rd year student of information technology department, Really Love new challenges
@@ -29,7 +29,7 @@ I am a backend developer and have focused extensively on backend applications. I
   -  Youtube: [Hoàng Anh Tiến ![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCV9v7sWQb2XTa7bd2cR0hZQ?style=social)](https://www.youtube.com/@hoangtien2k3)
 - ⚡ Don't forget to follow and star, support my projects! 😅 [profile-summary-for-github](https://profile-summary-for-github.com/user/hoangtien2k3) 
 
-## My Favorite Technologies
+## My favorite technologies
 ![](https://img.shields.io/badge/OS-macos-0078D6?style=flat&logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/OS-Linux-000000?style=flat&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/OS-Spring-0078D6?style=flat&logo=spring&logoColor=white)
@@ -41,7 +41,10 @@ I am a backend developer and have focused extensively on backend applications. I
 
 
 <details>
-<summary> 💻💬 More information about me <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge"> </summary> 
+<summary> 💻💬 More information about me 
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge"> 
+  ✌️ 
+</summary> 
 
 ![TIEN2K3](gitartwork.svg)
 
