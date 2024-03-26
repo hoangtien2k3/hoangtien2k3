@@ -34,8 +34,7 @@ I am a backend developer and have focused extensively on backend applications. I
 ![](https://img.shields.io/badge/OS-Linux-000000?style=flat&logo=linux&logoColor=white)
 ![](https://img.shields.io/badge/OS-Spring-0078D6?style=flat&logo=spring&logoColor=white)
 ![](https://img.shields.io/badge/OS-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![](https://img.shields.io/badge/Lang-kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/Lang-java-007396?style=flat&logo=java&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)    ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)   ![](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
 ![](https://img.shields.io/badge/IDE-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![](https://img.shields.io/badge/IDE-IntelliJIDEA-0078D6?style=flat&logo=intellij-idea&logoColor=white)
 
