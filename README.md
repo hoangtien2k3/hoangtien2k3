@@ -1,5 +1,7 @@
+<!-- Title The Full Name -->
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ho%C3%A0ng+Anh+Ti%E1%BA%BFn"></a>
+  
 
 <!-- Social icons section -->
 <p align="center">
@@ -17,6 +19,7 @@
 </p>
 
 
+<!-- Information myself -->
 ## Hi there, Good day! 👋
 I am a 3rd-year student, who loves designing backend systems. I am a computer geek who enjoys building backend systems, learning new things daily, reading books about personal development, and playing video games. I have a page [*support code*](https://www.facebook.com/hoangtien2k3) specializing in my experiences sharing code and algorithms. 
 
@@ -26,16 +29,9 @@ I am a 3rd-year student, who loves designing backend systems. I am a computer ge
   -  youtube: [![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCV9v7sWQb2XTa7bd2cR0hZQ?style=social)](https://www.youtube.com/@hoangtien2k3)
 - 💕 Don't forget to follow and star, support my projects! 😅 [*summary-github*](https://profile-summary-for-github.com/user/hoangtien2k3) 
 
-## Favorite technologies
-![](https://img.shields.io/badge/OS-macos-0078D6?style=flat&logo=apple&logoColor=white)
-![](https://img.shields.io/badge/OS-Linux-000000?style=flat&logo=linux&logoColor=white)
-![](https://img.shields.io/badge/OS-Spring-0078D6?style=flat&logo=spring&logoColor=white)
-![](https://img.shields.io/badge/OS-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)    ![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)   ![](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/IDE-Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-![](https://img.shields.io/badge/IDE-IntelliJIDEA-0078D6?style=flat&logo=intellij-idea&logoColor=white)
 
 
+<!-- More Information Details Myself -->
 <details>
 <summary> 💻 More information about me 
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge"> 
