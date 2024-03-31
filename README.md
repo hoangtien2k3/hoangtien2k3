@@ -30,20 +30,13 @@ I am a 3rd-year student, who loves designing backend systems. I am a computer ge
   <div align="left">
     
 📫 Let's connect! 
-    
-  - Website: [hoangtien2k3.github.io](https://hoangtien2k3.github.io/)
-  - LinkedIn: [in/hoangtien2k3](https://www.linkedin.com/in/hoangtien2k3/)
-  - YouTube: [![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCV9v7sWQb2XTa7bd2cR0hZQ?style=social)](https://www.youtube.com/@hoangtien2k3)
+  - Email: hoangtien2k3qx1@gmail.com
+  - Website: [https://hoangtien2k3.github.io](https://hoangtien2k3.github.io/)
+  - LinkedIn: [https://www.linkedin.com/in/hoangtien2k3](https://www.linkedin.com/in/hoangtien2k3/)
+  - YouTube: [![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCV9v7sWQb2XTa7bd2cR0hZQ?style=social)](https://www.youtube.com/@hoangtien2k3) 😅 [*summary-github*](https://profile-summary-for-github.com/user/hoangtien2k3)
   
   </div>
 </div>
-
-<div align="left">
-  
-  💕 Đừng quên theo dõi và star, ủng hộ dự án của tôi! 😅 [*summary-github*](https://profile-summary-for-github.com/user/hoangtien2k3)
-  
-</div>
-
 
 
 <!-- More Information Details Myself -->
