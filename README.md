@@ -19,9 +19,18 @@
 </p>
 
 
+
 <!-- Information myself -->
 ## Hi there, Good day! 👋
-I am a 3rd-year student, who loves designing backend systems. I am a computer geek who enjoys building backend systems, learning new things daily, reading books about personal development, and playing video games. I have a page [*support code*](https://www.facebook.com/hoangtien2k3) specializing in my experiences sharing code and algorithms. 
+<div style="display:flex; align-items:center;">
+    <div>
+        I am a 3rd-year student, who loves designing backend systems. I am a computer geek who enjoys building backend systems, learning new things daily, reading books about personal development, and playing video games. I have a page [support code](https://www.facebook.com/hoangtien2k3) specializing in my experiences sharing code and algorithms.
+    </div>
+    <div>
+        <img src="img/Logo_Team.png" alt="Logo" style="max-width: 100%;" width="500">
+    </div>
+</div>
+
 
 - 📫 Let's connect! Find me on
   -  website: [hoangtien2k3.github.io](https://hoangtien2k3.github.io/)
