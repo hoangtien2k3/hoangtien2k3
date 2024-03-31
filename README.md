@@ -21,10 +21,10 @@
 
 
 <!-- Information myself -->
-## 👋 Hi there, Good day!   [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:hoangtien2k3?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
+## 👋 Hi there, Good day!   
 
 <div>
-  <img src="img/Logo_Team.png" alt="Logo Team" align="right" width="330">
+  <img src="img/Logo_Team.png" alt="Logo Team" align="right" width="300">
   
   <div align="left">
     
@@ -38,7 +38,6 @@ I am a 3rd-year student, who loves designing backend systems. I am a computer ge
   
   </div>
 </div>
-
 
 
 <!-- More Information Details Myself -->
