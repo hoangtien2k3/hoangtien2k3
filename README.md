@@ -1,7 +1,7 @@
 <!-- Title The Full Name -->
 <p align="center">
   <a href="#"><img src="https://readme-typing-svg.demolab.com?font=&size=27&pause=1000&color=F03B9E&center=true&vCenter=true&repeat=false&width=435&lines=Ho%C3%A0ng+Anh+Ti%E1%BA%BFn"></a>
-  
+
 
 <!-- Social icons section -->
 <p align="center">
@@ -21,7 +21,7 @@
 
 
 <!-- Information myself -->
-## Hi there, Good day! 👋
+## Hi there, Good day! 👋  [<img align="center" width="100" alt="🦑" src="https://count.getloli.com/get/@:hoangtien2k3?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
 I am a 3rd-year student, who loves designing backend systems. I am a computer geek who enjoys building backend systems, learning new things daily, reading books about personal development, and playing video games. I have a page [support code](https://www.facebook.com/hoangtien2k3) specializing in my experiences sharing code and algorithms.
 
 
@@ -37,6 +37,7 @@ I am a 3rd-year student, who loves designing backend systems. I am a computer ge
   
   </div>
 </div>
+
 
 
 <!-- More Information Details Myself -->
