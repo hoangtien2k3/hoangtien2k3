@@ -21,15 +21,14 @@
 
 
 <!-- Information myself -->
-
+## 👋 Hi there, Good day!   [<img align="right" width="150" alt="🦑" src="https://count.getloli.com/get/@:hoangtien2k3?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
 
 <div>
-  <img src="img/Logo_Team.png" alt="Logo Team" align="right" width="350">
+  <img src="img/Logo_Team.png" alt="Logo Team" align="right" width="330">
+  
   <div align="left">
-
-## Hi there, Good day! 👋  [<img align="center" width="100" alt="🦑" src="https://count.getloli.com/get/@:hoangtien2k3?theme=rule34">](https://www.youtube.com/watch?v=PqXPW0oBKgg)
+    
 I am a 3rd-year student, who loves designing backend systems. I am a computer geek who enjoys building backend systems, learning new things daily, reading books about personal development, and playing video games. I have a page [support code](https://www.facebook.com/hoangtien2k3) specializing in my experiences sharing code and algorithms.
-
     
 📫 Let's connect! 
   - Email: hoangtien2k3qx1@gmail.com
