@@ -22,21 +22,27 @@
 
 <!-- Information myself -->
 ## Hi there, Good day! 👋
-<div style="display:flex; align-items:center;">
-    <div>
-        I am a 3rd-year student, who loves designing backend systems. I am a computer geek who enjoys building backend systems, learning new things daily, reading books about personal development, and playing video games. I have a page [support code](https://www.facebook.com/hoangtien2k3) specializing in my experiences sharing code and algorithms.
-    </div>
-    <div>
-        <img src="img/Logo_Team.png" alt="Logo" style="max-width: 100%;" width="500">
-    </div>
+I am a 3rd-year student, who loves designing backend systems. I am a computer geek who enjoys building backend systems, learning new things daily, reading books about personal development, and playing video games. I have a page [support code](https://www.facebook.com/hoangtien2k3) specializing in my experiences sharing code and algorithms.
+
+
+<div>
+  <img src="img/Logo_Team.png" alt="Logo Team" align="right" width="200">
+  <div align="left">
+    
+📫 Let's connect! 
+    
+  - Website: [hoangtien2k3.github.io](https://hoangtien2k3.github.io/)
+  - LinkedIn: [in/hoangtien2k3](https://www.linkedin.com/in/hoangtien2k3/)
+  - YouTube: [![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCV9v7sWQb2XTa7bd2cR0hZQ?style=social)](https://www.youtube.com/@hoangtien2k3)
+  
+  </div>
 </div>
 
-
-- 📫 Let's connect! Find me on
-  -  website: [hoangtien2k3.github.io](https://hoangtien2k3.github.io/)
-  -  linkedin: [in/hoangtien2k3](https://www.linkedin.com/in/hoangtien2k3/)
-  -  youtube: [![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCV9v7sWQb2XTa7bd2cR0hZQ?style=social)](https://www.youtube.com/@hoangtien2k3)
-- 💕 Don't forget to follow and star, support my projects! 😅 [*summary-github*](https://profile-summary-for-github.com/user/hoangtien2k3) 
+<div align="left">
+  
+  💕 Đừng quên theo dõi và star, ủng hộ dự án của tôi! 😅 [*summary-github*](https://profile-summary-for-github.com/user/hoangtien2k3)
+  
+</div>
 
 
 
