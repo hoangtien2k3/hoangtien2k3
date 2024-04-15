@@ -32,7 +32,7 @@
     
 I am a 3rd-year student, who loves designing backend systems. I am a computer geek who enjoys building backend systems, learning new things daily, reading books about personal development, and playing video games. I have a page [support code](https://www.facebook.com/hoangtien2k3) specializing in my experiences sharing code and algorithms.
     
-📫 Let's connect! <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+📫 Let's connect! 
   - Website: [https://hoangtien2k3.github.io](https://hoangtien2k3.github.io/)
   - LinkedIn: [https://www.linkedin.com/in/hoangtien2k3](https://www.linkedin.com/in/hoangtien2k3/)
   - TikTok: [https://www.tiktok.com/@ctdl.gt](https://www.tiktok.com/@ctdl.gt)
@@ -46,6 +46,7 @@ I am a 3rd-year student, who loves designing backend systems. I am a computer ge
 <summary> 💻 More information about me 
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge"> 
   ✌️ 
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
 </summary> 
 
 ![TIEN2K3](gitartwork.svg)
@@ -135,4 +136,4 @@ I am a 3rd-year student, who loves designing backend systems. I am a computer ge
 
   <p><a href="hoangtien2k3.github.io"><img src="https://github.com/hoangtien2k3/hoangtien2k3/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@hoangtien2k3's Web hoangtien2k3"></a></p>
 
-</details>
+</details>  
