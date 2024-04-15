@@ -36,8 +36,8 @@ I am a 3rd-year student, who loves designing backend systems. I am a computer ge
   - Email: hoangtien2k3qx1@gmail.com
   - Website: [https://hoangtien2k3.github.io](https://hoangtien2k3.github.io/)
   - LinkedIn: [https://www.linkedin.com/in/hoangtien2k3](https://www.linkedin.com/in/hoangtien2k3/)
+  - TikTok: [https://www.tiktok.com/@ctdl.gt](https://www.tiktok.com/@ctdl.gt)
   - YouTube: [![YouTube channel subscribers](https://img.shields.io/youtube/channel/subscribers/UCV9v7sWQb2XTa7bd2cR0hZQ?style=social)](https://www.youtube.com/@hoangtien2k3) 
-  
   </div>
 </div>
 
