@@ -139,7 +139,7 @@ I am a 3rd-year student, who loves designing backend systems. I am a computer ge
 </details>  
 
 
-## 📚 Language and Tools
+
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
