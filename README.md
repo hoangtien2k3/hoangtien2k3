@@ -19,13 +19,12 @@
 </p>
 
 
-
 <!-- Information myself -->
 ## 👋 Hi there, Good day!   
 
 <div>
   <a href="https://www.tiktok.com/@ctdl.gt">
-      <img src="img/Logo_Team.png" alt="Logo Team" align="right" width="300">
+      <img src="img/icon_docker.png" alt="Logo Team" align="right" width="300">
   </a>
   
   <div align="left">
