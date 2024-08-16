@@ -24,7 +24,7 @@
 
 <div>
   <a href="https://www.tiktok.com/@ctdl.gt">
-      <img src="img/logo_docker.png" alt="Logo Team" align="right" width="300">
+      <img src="img/icon_docker_sys.png" alt="Logo Team" align="right" width="300">
   </a>
   
   <div align="left">
