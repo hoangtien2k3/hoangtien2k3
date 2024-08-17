@@ -29,7 +29,7 @@
   
   <div align="left">
     
-I am a 3rd-year student, who loves designing backend systems. I am a computer geek who enjoys building backend systems, learning new things daily, reading books about personal development, and playing video games. I have a page [support code](https://www.facebook.com/hoangtien2k3) specializing in my experiences sharing code and algorithms.
+I'm a third-year student with a passion for architecting backend systems. I'm a tech enthusiast deeply into backend development, continuously expanding my knowledge base, diving into personal development literature, and gaming in my downtime. I also run a coding page [support code](https://www.facebook.com/hoangtien2k3) where I share my experiences, code snippets, and algorithms with the developer community. 
     
 📫 Let's connect! 
   - Website: [https://hoangtien2k3.github.io](https://hoangtien2k3.github.io/)
