@@ -64,7 +64,7 @@ I'm a third-year student with a passion for architecting backend systems. I'm a 
 
 <!-- More Information Details Myself -->
 <details>
-<summary> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> More information about my git activity through visual charts 
+<summary> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> More information about me
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge"> 
 </summary> 
 
