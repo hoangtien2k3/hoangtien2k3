@@ -23,8 +23,8 @@
 ## 👋 Hi there, Good day!   
 
 <div>
-  <a href="https://www.tiktok.com/@ctdl.gt">
-      <img src="img/icon_docker_sys.png" alt="Logo Team" align="right" width="300">
+  <a href="https://github.com/backend-source">
+      <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="300">
   </a>
   
   <div align="left">
