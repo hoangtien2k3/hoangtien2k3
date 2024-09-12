@@ -33,9 +33,9 @@ I'm a third-year student with a passion for architecting backend systems. I'm a 
     
 📫 Let's connect! 
   - Website: [https://hoangtien2k3.github.io](https://hoangtien2k3.github.io/)
-  - LinkedIn: [https://www.linkedin.com/in/hoangtien2k3](https://www.linkedin.com/in/hoangtien2k3/)
   - TikTok: [https://www.tiktok.com/@ctdl.gt](https://www.tiktok.com/@ctdl.gt)
-  - Viblo: [https://viblo.asia/u/hoangtien2k3](https://viblo.asia/u/hoangtien2k3)
+  - Viblo: [https://viblo.asia/u/hoangtien2k3](https://viblo.asia/u/hoangtien2k3/)
+  - LinkedIn: [https://www.linkedin.com/in/hoangtien2k3](https://www.linkedin.com/in/hoangtien2k3/)
   </div>
 </div>
 
