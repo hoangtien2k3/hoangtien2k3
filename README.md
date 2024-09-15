@@ -99,12 +99,14 @@ I'm a third-year student with a passion for architecting backend systems. I'm a 
 ```
 
 
+
   <h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
     <a href="https://github.com/hoangtien2k3/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hoangtien2k3's streak" src="https://streak-stats.demolab.com/?user=hoangtien2k3&theme=monokai-metallian&hide_border=true"/>
+      <img src="https://i.ibb.co/N366vtQ/hoangtien2k3.png" alt="hoangtien2k3" width="200px">
     </a>
     <p>🔥 Get streak stats for your profile at <a href="hoangtien2k3.github.io">hoangtien2k3.github.io</a></p>
   </p>
