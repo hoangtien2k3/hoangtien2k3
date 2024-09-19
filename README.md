@@ -20,7 +20,7 @@
 
 
 <!-- Information myself -->
-## 👋 Hi there, Good day!   
+<h3> 👋 Hi there, Good Day! </h3> 
 
 <div>
   <a href="https://github.com/backend-source">
@@ -40,7 +40,7 @@ I'm a third-year student with a passion for architecting backend systems. I'm a 
 </div>
 
 
-## 📚 Language and Tools
+<h3> 📚 Language and Tools </h3>
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
