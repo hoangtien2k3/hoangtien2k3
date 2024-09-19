@@ -20,7 +20,7 @@
 
 
 <!-- Information myself -->
-<h3> 👋 Hi there, Good Day! </h3> 
+<h2> 👋 Hi there, Good Day! </h2> 
 
 <div>
   <a href="https://github.com/backend-source">
