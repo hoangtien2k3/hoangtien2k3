@@ -32,10 +32,10 @@
 I'm a third-year student with a passion for architecting backend systems. I'm a tech enthusiast deeply into backend development, continuously expanding my knowledge base, diving into personal development literature, and gaming in my downtime. I also run a coding page [support code](https://www.facebook.com/hoangtien2k3) where I share my experiences, code snippets, and algorithms with the developer community. 
     
 📫 Let's connect! 
-  - `Blogs`: [*https://hoangtien2k3.github.io*](https://hoangtien2k3.github.io/)
-  - `Website`: [*https://hoangtien2k3.vercel.app*](https://hoangtien2k3.vercel.app/)
+  - `Website`: [*https://hoangtien2k3.github.io*](https://hoangtien2k3.github.io/)
   - `TikTok`: [*https://www.tiktok.com/@ctdl.gt*](https://www.tiktok.com/@ctdl.gt)
   - `Viblo`: [*https://viblo.asia/u/hoangtien2k3*](https://viblo.asia/u/hoangtien2k3/)
+  - `Youtube`: [*https://www.youtube.com/@hoangtien2k3*](https://www.youtube.com/@hoangtien2k3)
   </div>
 </div>
 
