@@ -31,15 +31,13 @@
     
 I'm a third-year student with a passion for architecting backend systems. I'm a tech enthusiast deeply into backend development, continuously expanding my knowledge base, diving into personal development literature, and gaming in my downtime. I also run a coding page [support code](https://www.facebook.com/hoangtien2k3) where I share my experiences, code snippets, and algorithms with the developer community. 
     
-📫 Let's commit on my github! 
+📫 Let's commit on my `gitHub`! 
 ```text
-🌞 Morning     12836 commits       ██████░░░░░░░░░░░░░░░░░░░   25.88 %
-🌆 Daytime     25096 commits       ████████████░░░░░░░░░░░░░   50.64 %
-🌃 Evening     11429 commits       ██████░░░░░░░░░░░░░░░░░░░   24.15 %
-🌙 Night       2236 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-```
-
-    
+🌞 Morning     2236 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+🌆 Daytime     25096 commits     ████████████░░░░░░░░░░░░░   50.64 %
+🌃 Evening     11429 commits     ██████░░░░░░░░░░░░░░░░░░░   24.15 %
+🌙 Night       12836 commits     ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
+```    
   </div>
 </div>
 
