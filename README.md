@@ -29,7 +29,7 @@
   
   <div align="left">
     
-I'm a third-year student with a passion for architecting backend systems. I'm a tech enthusiast deeply into backend development, continuously expanding my knowledge base, diving into personal development literature, and gaming in my downtime. I also run a coding page [support code](https://www.facebook.com/hoangtien2k3) where I share my experiences, code snippets, and algorithms with the developer community. 
+I'm a third-year student with a passion for architecting backend systems. I'm a tech enthusiast deeply into backend development, continuously expanding my knowledge base, diving into personal development literature, and gaming in my downtime. I also run a coding page 🇻🇳[support code](https://www.facebook.com/hoangtien2k3) where I share my experiences, code snippets, and algorithms with the developer community. 
     
 📫 Let's commit on my `gitHub`! 
 ```text
