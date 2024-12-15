@@ -17,7 +17,6 @@ jobs:
 
       - name: Commit and push changes
         run: |
-          echo "Hehehe 😅" >> README.md
           git config --global user.email "hoangtien2k3qx1@gmail.com"
           git config --global user.name "Hoàng Anh Tiến"
           git add -A
