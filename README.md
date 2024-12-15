@@ -178,5 +178,3 @@ I'm a third-year student with a passion for architecting backend systems. I'm a 
   <p><a href="hoangtien2k3.github.io"><img src="https://github.com/hoangtien2k3/hoangtien2k3/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="@hoangtien2k3's Web hoangtien2k3"></a></p>
 
 </details>  
-
-Hehehe 😅
