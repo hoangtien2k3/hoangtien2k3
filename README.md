@@ -20,7 +20,7 @@
 
 
 <!-- Information myself -->
-<h2>👋 Hi there, Good Day!</h2> 
+<h2>👋 Hi there, Good Day</h2> 
 
 <div>
   <a href="https://github.com/backend-source">
@@ -31,7 +31,7 @@
     
 I'm a tech enthusiast who is deeply into backend development, continuously expanding my knowledge base, diving into personal development literature, and gaming in my downtime. I also run a coding page 🇻🇳[support code](https://www.facebook.com/hoangtien2k3) where I share my experiences and algorithms with the developer community. [github stats](https://profile-summary-for-github.com/user/hoangtien2k3)🔥
     
-📫 Let's commit on my `gitHub`! 
+📫 Let's commit on my `gitHub`
 ```text
 🌞 Morning     2236  commits     █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
 🌆 Daytime     25096 commits     ████████████░░░░░░░░░░░░░   50.64 %
