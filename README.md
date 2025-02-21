@@ -29,7 +29,7 @@
   
   <div align="left">
     
-I'm a tech enthusiast who is deeply into backend development, continuously expanding my knowledge base, diving into personal development literature, and gaming in my downtime. I also run a coding page 🇻🇳[support code](https://www.facebook.com/hoangtien2k3) where I share my experiences and algorithms with the developer community. [github stats](https://profile-summary-for-github.com/user/hoangtien2k3)🔥
+I’m a tech enthusiast with a strong passion for backend development. I’m constantly expanding my knowledge, diving into personal development books, and enjoying gaming during my downtime. I also run a coding page called 🇻🇳[support code](https://www.facebook.com/hoangtien2k3) where I share my experiences and algorithms with the developer community. [github stats](https://profile-summary-for-github.com/user/hoangtien2k3)🔥
     
 📫 Let's commit on my `gitHub`
 ```text
