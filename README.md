@@ -29,7 +29,7 @@
   
   <div align="left">
     
-I’m a tech enthusiast with a strong passion for backend development. I’m constantly expanding my knowledge, diving into personal development books, and enjoying gaming during my downtime. I also run a coding page called 🇻🇳[support code](https://www.facebook.com/hoangtien2k3) where I share my experiences and algorithms with the developer community. [github stats](https://profile-summary-for-github.com/user/hoangtien2k3)🔥
+I’m a tech enthusiast with a strong passion for backend development. I’m constantly expanding my knowledge, diving into personal development books, and enjoying gaming during my downtime. On my TikTok channel 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt) I share programming and algorithm insights with the community. [github stats](https://profile-summary-for-github.com/user/hoangtien2k3)🔥
     
 📫 Let's commit on my `gitHub`
 ```text
