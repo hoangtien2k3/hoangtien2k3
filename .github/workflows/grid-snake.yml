@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ main ]
   schedule:
-    - cron: '0 */6 * * *' # Runs on the 0, 6, 12 and 18th hour.
+    - cron: '0 */2 * * *'
 
 jobs:
   build:
@@ -34,5 +34,5 @@ jobs:
           commit_message: "grid snake"
           file_pattern: 'dist/*.svg'
           commit_user_name: hoangtien2k3
-          commit_user_email: hoangtien2k3qx1@gmail.com # defaults to "github-actions[bot]@users.noreply.github.com"
-          commit_author: Hoàng Anh Tiến <hoangtien2k3qx1@gmail.com> # defaults to author of the commit that triggered the run
+          commit_user_email: hoangtien2k3qx1@gmail.com
+          commit_author: Hoàng Anh Tiến <hoangtien2k3qx1@gmail.com>
