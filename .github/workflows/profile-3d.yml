@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 2 * * *"
   workflow_dispatch:
 
 jobs:
@@ -20,5 +20,5 @@ jobs:
           git config user.name hoangtien2k3qx1
           git config user.email hoangtien2k3qx1@github.com
           git add -A .
-          git commit -m "generated"
+          git commit -m "profile-3d"
           git push
