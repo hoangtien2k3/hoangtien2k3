@@ -29,7 +29,7 @@
   
   <div align="left">
 
-I’m a tech enthusiast with a strong passion for backend development. I’m constantly expanding my knowledge, diving into personal development books, and enjoying gaming during my downtime. On my TikTok channel 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt) I share programming and algorithm insights with the community. [github stats](https://profile-summary-for-github.com/user/hoangtien2k3)🔥
+I’m a tech enthusiast with a strong passion for backend development. I’m constantly expanding my knowledge, diving into personal development books, and enjoying gaming during my downtime. I share programming and algorithm insights on my TikTok 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt) and [github stats](https://profile-summary-for-github.com/user/hoangtien2k3)🔥
     
 📫 Let's commit on my `gitHub`
 
@@ -67,7 +67,7 @@ I’m a tech enthusiast with a strong passion for backend development. I’m con
 
 <!-- More Information Details Myself -->
 <details>
-<summary> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> More information about me 👋
+<summary> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> Here’s a bit more about me 👋—my passion for tech, sharing knowledge with the community 👋
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge"> 🐳
 </summary> 
 
