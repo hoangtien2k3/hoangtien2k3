@@ -24,7 +24,7 @@
 
 <div>
   <a href="https://github.com/backend-source">
-      <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="300">
+      <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="200">
   </a>
   
   <div align="left">
