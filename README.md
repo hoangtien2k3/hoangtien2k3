@@ -32,12 +32,13 @@
 I’m a tech enthusiast with a strong passion for backend development. I’m constantly expanding my knowledge, diving into personal development books, and enjoying gaming during my downtime. On my TikTok channel 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt) I share programming and algorithm insights with the community. [github stats](https://profile-summary-for-github.com/user/hoangtien2k3)🔥
     
 📫 Let's commit on my `gitHub`
-```text
-🌞 Morning     2236  commits     █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
-🌆 Daytime     25096 commits     ████████████░░░░░░░░░░░░░   50.64 %
-🌃 Evening     11429 commits     ██████░░░░░░░░░░░░░░░░░░░   24.15 %
-🌙 Night       12836 commits     ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-```    
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="500">
+</picture>
+
   </div>
 </div>
 
