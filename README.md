@@ -67,7 +67,7 @@ I’m a tech enthusiast with a strong passion for backend development. I’m con
 
 <!-- More Information Details Myself -->
 <details>
-<summary> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> Here’s a bit more about me 👋—my passion for tech, sharing knowledge with the community 👋
+<summary> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> Here’s a bit more about me 👋 Sharing knowledge with the community 👋
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge"> 🐳
 </summary> 
 
