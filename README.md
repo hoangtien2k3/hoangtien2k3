@@ -33,7 +33,7 @@ I’m a tech enthusiast with a strong passion for backend development. I’m con
 personal development books, and enjoying gaming during my downtime. I share programming and algorithm insights on my
 TikTok 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
 
-📫 Let's commit on my `gitHub`
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
