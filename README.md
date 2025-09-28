@@ -34,7 +34,6 @@ personal development books, and enjoying gaming during my downtime. I share prog
 TikTok 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
 
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
@@ -47,8 +46,8 @@ TikTok 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
 
 <!-- More Information Details Myself -->
 <details>
-<summary> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> Here’s a bit more about me 👋
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge"> 🐳
+<summary> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> More about me
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge">
 </summary> 
 
 <p align="center">
