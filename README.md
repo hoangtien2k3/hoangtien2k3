@@ -20,17 +20,19 @@
 
 
 <!-- Information myself -->
-<h2>👋 Hi there, Good Day</h2> 
+<h2>👋 Hi there, Good Day</h2>
 
 <div>
   <a href="https://github.com/reactifyx">
       <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="250">
   </a>
-  
+
   <div align="left">
 
-I’m a tech enthusiast with a strong passion for backend development. I’m constantly expanding my knowledge, diving into personal development books, and enjoying gaming during my downtime. I share programming and algorithm insights on my TikTok 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
-    
+I’m a tech enthusiast with a strong passion for backend development. I’m constantly expanding my knowledge, diving into
+personal development books, and enjoying gaming during my downtime. I share programming and algorithm insights on my
+TikTok 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
+
 📫 Let's commit on my `gitHub`
 
 <picture>
@@ -124,7 +126,7 @@ I’m a tech enthusiast with a strong passion for backend development. I’m con
   <img src="https://img.shields.io/badge/Dart-snow?logo=dart&logoColor=0175C2" alt="" />
 </p>
 
-  <h3>🔥 Streak Stats</h3>
+<h3>🔥 Streak Stats</h3>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
   <p>
@@ -135,7 +137,7 @@ I’m a tech enthusiast with a strong passion for backend development. I’m con
     <p>🔥 Get streak stats for your profile at <a href="hoangtien2k3.github.io">hoangtien2k3.github.io</a></p>
   </p>
 
-  <h3>💻💬 GitHub Profile Stats</h3>
+<h3>💻💬 GitHub Profile Stats</h3>
 
   <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -165,15 +167,15 @@ I’m a tech enthusiast with a strong passion for backend development. I’m con
 </div>
 
 
-  <a href="#"><img alt="hoangtien2k3's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hoangtien2k3&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-  <a href="#"><img alt="hoangtien2k3's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-  
+<a href="#"><img alt="hoangtien2k3's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=hoangtien2k3&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+<a href="#"><img alt="hoangtien2k3's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=hoangtien2k3&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience
+or skill level.
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="hoangtien2k3's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hoangtien2k3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="hoangtien2k3's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=hoangtien2k3&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
-  <h3>⚡ Recent GitHub Activity</h3>
+<h3>⚡ Recent GitHub Activity</h3>
 
  <a href="https://commits.top/vietnam.html">
   <img src="http://iot.fbiego.com/api/v1/commits?user=hoangtien2k3&country=VietNam&bg_color=293035&text_color=fafafa&border_color=293035">
