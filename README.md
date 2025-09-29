@@ -29,10 +29,9 @@
 
   <div align="left">
 
-I’m a tech enthusiast with a strong passion for backend development. I’m constantly expanding my knowledge, diving into
-personal development books, and enjoying gaming during my downtime. I share programming and algorithm insights on my
-TikTok 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
-
+I am passionate about technology, especially in backend system development. I enjoy learning, exploring new knowledge, 
+and actively contributing to open-source projects for the community. In addition, I regularly share knowledge on
+my TikTok channel 🇻🇳[ctdl.gt](https://www.tiktok.com/@ctdl.gt)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
