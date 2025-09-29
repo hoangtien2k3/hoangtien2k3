@@ -62,27 +62,6 @@ and actively contributing to open-source projects for the community. In addition
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
 </picture>
 
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+ +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@        o o                                              @@ @@       _____               _                         @@
-@@        | |                                              @@ @@      / ____|             | |                        @@
-@@       _L_L_                                             @@ @@     | |  __  ___   _ __  | |__    __ _              @@
-@@    ❮\/__-__\/❯  Programming isn't about what you know   @@ @@     | | |_ |/ _ \ | '_ \ | '_ \  / _` |             @@
-@@    ❮(|~o.o~|)❯  It's about what you can figure out      @@ @@     | |__| | (_) || | | || | | || (_| |             @@
-@@    ❮/ \`-'/ \❯                                          @@ @@      \_____|\___/ |_| |_||_| |_| \__,_|             @@
-@@      _/`U'\_                                            @@ @@                                                     @@
-@@     ( .   . )     .----------------------------.        @@ @@    __ _   __ _  _ __ ___     __ _  _ __ ___   ___   @@
-@@    / /     \ \    | while( ! (succed=try() ) ) |        @@ @@   / _` | / _` || '_ ` _ \   / _` || '_ ` _ \ / _ \  @@
-@@    \ |  ,  | /    '----------------------------'        @@ @@  | (_| || (_| || | | | | | | (_| || | | | | |  __/  @@
-@@     \|=====|/                                           @@ @@   \__, | \__,_||_| |_| |_|  \__,_||_| |_| |_|\___|  @@
-@@      |_.^._|                                            @@ @@    __/ |                                            @@
-@@      | |"| |                                            @@ @@   |___/                \___/                        @@
-@@      ( ) ( )    Testing leads to failure                @@ @@                         \_/                         @@
-@@      |_| |_|    and failure leads to understanding      @@ @@                          |                          @@
-@@  _.-' _j L_ '-._                                        @@ @@                     hoangtien2k3                    @@
-@@ (___.'     '.___)                                       @@ @@                                                     @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+ +@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
 
  <h3> 📚 Language </h3>
 <p align="left">
