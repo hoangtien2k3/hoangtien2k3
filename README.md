@@ -44,7 +44,7 @@ and actively contributing to open-source projects for the community. In addition
 
 <!-- More Information Details Myself -->
 <details>
-<summary> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> Discover more –> The portrait of a backend dev wannabe 🔥
+<summary> <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/> Discover more –-> The portrait of a backend dev wannabe 🔥
   <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=hoangtien2k3.visitor-badge">
 </summary> 
 
