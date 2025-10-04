@@ -24,7 +24,7 @@
 
 <div>
   <a href="https://github.com/reactifyx">
-      <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="250">
+      <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="200">
   </a>
 
   <div align="left">
@@ -35,7 +35,7 @@ and actively contributing to open-source projects for the community. In addition
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="550">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/output/pacman-contribution-graph.svg" width="600">
 </picture>
 
   </div>
