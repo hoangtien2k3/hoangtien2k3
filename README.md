@@ -24,7 +24,7 @@
 
 <div>
   <a href="https://github.com/reactifyx">
-      <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="200">
+      <img src="img/icon_docker_sys.png" alt="Backend Open Source" align="right" width="250">
   </a>
 
   <div align="left">
