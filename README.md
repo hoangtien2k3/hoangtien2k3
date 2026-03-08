@@ -83,6 +83,8 @@ and actively contributing to open-source projects for the community. In addition
 
 </a>
 
+![Header](img/header_.png)
+
 ![TIEN2K3](gitartwork.svg)
 
 ![Grid-Snake](https://raw.githubusercontent.com/hoangtien2k3/hoangtien2k3/main/dist/grid-snake.svg)
